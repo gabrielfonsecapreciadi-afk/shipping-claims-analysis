@@ -1,0 +1,907 @@
+order_id,transit_days,state,carrier,product_type,damage_pct,date,ice_pack,amount,notes
+Example,5,NJ,CARRIER A,Gummies,0.3,,,,
+SYN-1000,4,CA,Carrier A,Chocolate,1.0,2025-07-24,Yes,21.03,Partial refund accepted.
+SYN-1001,4,TX,CARRIER A,Chocolate,1.0,2025-07-09,Yes,26.42,Partial refund accepted.
+SYN-1002,3,AZ,carrier a ,Chocolate,0.2,2025-06-17,Yes,16.0,Partial refund accepted.
+SYN-1003,5,FL,Carrier A,Hard Candy,0.3,2025-07-25,Yes,13.08,
+SYN-1004,.,LA,CARRIER A ,Chocolate,0.2,2025-09-22,Yes,38.87,Waiting for photos.
+SYN-1005,3,TX ,carrier c,Chocolate,1.0,2025-08-09,Yes,23.49,Photos received.
+SYN-1006,5,TX,CARRIER A ,Chocolate,0.5,2025-07-26,Yes,10.15,
+SYN-1007,2,FL,Carrier A,Chocolate,0.5,2025-06-26,Yes,18.8,
+SYN-1008,.,FL,CARRIER A,Chocolate,0.5,2025-07-09,Yes,25.66,Partial refund accepted.
+SYN-1009,4,,CARRIER A,Chocolate,0.3,2025-07-12,Yes,85.32,Waiting for photos.
+SYN-1010,7,MO,Carrier A,Chocolate,0.5,2025-08-21,Yes,36.88,Waiting for photos.
+SYN-1011,2,CA,Carrier B ,Chocolate,0.2,2025-09-05,Yes,54.22,Waiting for photos.
+SYN-1012,2,TN,CARRIER A ,Chocolate,0.5,2025-09-09,,10.49,Photos received.
+SYN-1013,2,MA,Carrier A,Chocolate,0.7,2025-09-30,Yes,11.34,Partial refund accepted.
+SYN-1014,5,OH,CARRIER A ,Chocolate,0.5,2025-09-30,Yes,14.7,Waiting for photos.
+SYN-1015,2,PA,CARRIER A,Chocolate,0.3,2025-09-20,Yes,15.97,Waiting for photos.
+SYN-1016,4,CA,Carrier A,Chocolate,1.0,2025-06-21,Yes,7.34,Partial refund accepted.
+SYN-1017,9,FL,CARRIER A ,Chocolate,0.7,2025-06-29,Yes,56.79,
+SYN-1018,1,CA,CARRIER A,Chocolate,0.3,2025-07-12,Yes,40.25,Photos received.
+SYN-1019,4,KS,Carrier A,Chocolate,0.3,2025-07-31,Yes,13.8,
+SYN-1020,4,,CARRIER A ,Chocolate,0.5,2025-06-25,Yes,32.38,Partial refund accepted.
+SYN-1021,5,CA,carrier a ,Chocolate,0.3,2025-08-31,Yes,22.21,
+SYN-1022,3,NC,CARR C,Chocolate,0.3,2025-08-06,Yes,34.74,Waiting for photos.
+SYN-1023,3,NV,Carrier B ,Chocolate,0.3,2025-07-30,Yes,5.42,
+SYN-1024,2,MO,CARRIER A ,Chocolate,0.3,2025-07-02,Yes,15.94,Partial refund accepted.
+SYN-1025,4,NY,CARRIER A ,Chocolate,0.5,2025-07-09,Yes,17.25,Partial refund accepted.
+SYN-1026,.,MA,CARRIER A ,Chocolate,0.5,2025-07-01,Yes,31.86,Partial refund accepted.
+SYN-1027,2,MO,CARRIER A,Chocolate,0.3,2025-09-01,Yes,10.32,Waiting for photos.
+SYN-1028,3,TN,carrier a ,Chocolate,0.7,2025-08-03,Yes,1.92,Partial refund accepted.
+SYN-1029,5,FL,CARRIER A,Chocolate,0.3,2025-08-17,Yes,6.87,
+SYN-1030,1,TX,CARRIER A,Chocolate,0.3,2025-07-12,Yes,17.2,
+SYN-1031,.,KS,CARRIER C,Chocolate,0.3,2025-07-17,No,19.25,Photos received.
+SYN-1032,4,OH,carrier a ,Chocolate,0.7,2025-07-19,Yes,82.71,Partial refund accepted.
+SYN-1033,3,GA,Carrier A,Chocolate,1.0,2025-08-20,Yes,30.71,
+SYN-1034,3,OH,CARRIER A ,Chocolate,0.5,2025-08-22,Yes,19.56,Partial refund accepted.
+SYN-1035,3,TX,Carrier A,Chocolate,0.2,2025-07-05,Yes,17.65,Waiting for photos.
+SYN-1036,2,NV,carrier a ,Chocolate,0.3,2025-09-17,Yes,49.1,Waiting for photos.
+SYN-1037,4,FL,CARRIER A ,Chocolate,0.3,2025-06-27,Yes,10.69,Partial refund accepted.
+SYN-1038,4,SC,CARRIER A ,Chocolate,1.0,2025-09-08,Yes,16.02,Partial refund accepted.
+SYN-1039,4,,CARRIER A,Chocolate,0.2,2025-06-25,Yes,6.82,Waiting for photos.
+SYN-1040,2,FL,carrier a ,Chocolate,1.0,2025-07-10,Yes,65.17,Waiting for photos.
+SYN-1041,5,TX,CARRIER A,Chocolate,0.5,2025-08-31,Yes,25.87,Waiting for photos.
+SYN-1042,2,SC,carrier a ,Chocolate,0.5,2025-07-03,Yes,9.61,Photos received.
+SYN-1043,5,FL,Carrier A,Chocolate,1.0,2025-07-20,Yes,16.4,Photos received.
+SYN-1044,3,TX,CARRIER A ,Chocolate,0.2,2025-07-23,Yes,28.75,Photos received.
+SYN-1045,.,NJ,CARRIER A ,Chocolate,0.7,2025-07-08,Yes,14.5,Waiting for photos.
+SYN-1046,.,CA,CARRIER A ,Chocolate,0.3,2025-08-15,Yes,11.23,Partial refund accepted.
+SYN-1047,2,GA,CARRIER A ,Chocolate,1.0,2025-09-01,,10.09,Waiting for photos.
+SYN-1048,3,FL,Carrier A,Chocolate,0.5,2025-09-04,Yes,24.66,
+SYN-1049,1,CO ,carrier a ,Chocolate,0.2,2025-07-15,Yes,13.17,Photos received.
+SYN-1050,2,CA,CARRIER A,Chocolate,1.0,2025-07-29,Yes,12.08,Waiting for photos.
+SYN-1051,4,FL,carrier a ,Chocolate,0.2,2025-07-08,Yes,5.46,Photos received.
+SYN-1052,5,CA,CARRIER A,Chocolate,0.3,2025-07-08,Yes,19.49,Waiting for photos.
+SYN-1053,2,FL,carrier a ,Chocolate,0.7,2025-07-01,Yes,15.44,Partial refund accepted.
+SYN-1054,5,CA,CARRIER A ,Chocolate,0.5,2025-09-17,Yes,13.61,Waiting for photos.
+SYN-1055,5,TX,carrier a ,Chocolate,1.0,2025-09-07,No,21.73,Waiting for photos.
+SYN-1056,5,FL ,CARRIER A ,Chocolate,0.5,2025-08-22,Yes,35.63,Partial refund accepted.
+SYN-1057,4,GA ,CARRIER A,Chocolate,0.5,2025-07-28,Yes,34.17,
+SYN-1058,4,WA,CARRIER A ,Chocolate,0.3,2025-07-26,Yes,29.89,Photos received.
+SYN-1059,4,,carrier a ,Chocolate,0.3,2025-07-29,Yes,14.63,Photos received.
+SYN-1060,4,FL,carrier a ,Chocolate,1.0,2025-07-30,Yes,10.91,Photos received.
+SYN-1061,6,OK ,CARRIER A ,Chocolate,0.3,2025-07-22,No,7.1,Partial refund accepted.
+SYN-1062,.,MA,carrier a ,Chocolate,0.5,2025-06-28,No,10.66,
+SYN-1063,3,PA,Carrier A,Chocolate,0.3,2025-06-28,Yes,18.5,Photos received.
+SYN-1064,2,FL,carrier a ,Chocolate,0.3,2025-09-20,Yes,,Photos received.
+SYN-1065,6,,carrier a ,Chocolate,0.5,2025-07-25,Yes,19.82,Partial refund accepted.
+SYN-1066,3,FL ,CARRIER A ,Chocolate,0.7,2025-09-20,Yes,7.62,
+SYN-1067,4,TX,Carrier A,Chocolate,0.7,2025-07-01,Yes,4.08,Partial refund accepted.
+SYN-1068,5,GA,carrier a ,Chocolate,1.0,2025-07-31,Yes,38.0,
+SYN-1069,9,NY,carrier a ,Chocolate,0.3,2025-07-05,Yes,11.86,Partial refund accepted.
+SYN-1070,2,CA,CARRIER A,Chocolate,0.5,2025-07-09,Yes,8.56,Photos received.
+SYN-1071,5,OH,CARRIER A,Chocolate,0.2,2025-06-14,Yes,6.79,Waiting for photos.
+SYN-1072,5,CA,CARRIER A,Chocolate,0.7,2025-06-27,No,26.6,
+SYN-1073,2,CA,carrier a ,Chocolate,0.3,2025-09-12,No,62.64,Partial refund accepted.
+SYN-1074,4,MI,Carrier A,Chocolate,0.5,2025-07-13,Yes,12.64,Photos received.
+SYN-1075,3,WA,CARRIER A ,Chocolate,0.3,2025-08-05,Yes,14.97,Photos received.
+SYN-1076,4,CA,carrier a ,Chocolate,1.0,2025-07-24,Yes,47.68,Partial refund accepted.
+SYN-1077,4,NY,CARRIER A,Chocolate,1.0,2025-07-19,Yes,3.56,Waiting for photos.
+SYN-1078,2,CA,CARRIER A,Chocolate,1.0,2025-07-29,Yes,106.72,Partial refund accepted.
+SYN-1079,2,TX,Carrier A,Chocolate,0.2,2025-07-03,,163.97,Waiting for photos.
+SYN-1080,2,NJ,CARRIER A ,Chocolate,1.0,2025-10-02,Yes,1.59,Waiting for photos.
+SYN-1081,2,FL,CARRIER A,Chocolate,0.3,2025-08-27,Yes,,Partial refund accepted.
+SYN-1082,4,GA,CARRIER A,Chocolate,0.3,2025-08-18,Yes,9.52,Photos received.
+SYN-1083,3,AZ,CARRIER A,Chocolate,0.3,2025-07-24,Yes,14.32,Waiting for photos.
+SYN-1084,.,FL,Carrier A,Chocolate,0.3,2025-06-30,Yes,12.47,Waiting for photos.
+SYN-1085,4,TX,CARRIER A ,Chocolate,0.5,2025-09-13,Yes,37.73,
+SYN-1086,4,CA,carrier a ,Chocolate,0.3,2025-07-15,Yes,16.42,Partial refund accepted.
+SYN-1087,4,AL,Carrier A,Chocolate,0.3,2025-06-18,Yes,8.01,Waiting for photos.
+SYN-1088,6,TN,CARRIER A,Chocolate,0.5,2025-07-15,,15.57,Waiting for photos.
+SYN-1089,3,GA,Carrier A,Chocolate,1.0,2025-08-24,Yes,28.88,Photos received.
+SYN-1090,5,TX,carrier a ,Chocolate,0.5,2025-08-06,Yes,6.26,Photos received.
+SYN-1091,2,OH,Carrier A,Chocolate,0.5,2025-08-19,Yes,4.13,Waiting for photos.
+SYN-1092,4,TX,carrier a ,Chocolate,0.3,2025-08-24,Yes,109.23,
+SYN-1093,.,IL,CARRIER A ,Chocolate,1.0,2025-07-06,Yes,10.19,Photos received.
+SYN-1094,5,NJ,CARRIER A,Chocolate,0.2,2025-09-13,Yes,16.06,Photos received.
+SYN-1095,4,GA,Carrier A,Hard Candy,0.3,2025-07-22,Yes,12.7,Partial refund accepted.
+SYN-1096,4,CA,CARRIER A,Chocolate,0.2,2025-08-08,Yes,29.76,Photos received.
+SYN-1097,3,TX,carrier a ,Chocolate,0.5,2025-06-05,Yes,89.61,
+SYN-1098,4,TX,Carrier A,Chocolate,0.3,2025-10-05,Yes,30.63,
+SYN-1099,5,NC ,CARRIER C,Hard Candy,0.5,2025-07-11,Yes,4.63,
+SYN-1100,9,MA,CARRIER B,Chocolate,0.3,2025-06-20,,5.23,Waiting for photos.
+SYN-1101,3,FL,CARRIER A,Chocolate,0.5,2025-07-23,Yes,12.69,Waiting for photos.
+SYN-1102,2,NY,Carrier A,Chocolate,0.5,2025-06-28,Yes,14.28,Waiting for photos.
+SYN-1103,4,PA,CARR C,Chocolate,0.2,2025-06-30,Yes,3.86,Photos received.
+SYN-1104,2,TX,CARRIER A,Chocolate,0.4,2025-08-07,Yes,37.99,Partial refund accepted.
+SYN-1105,2,TX,CARRIER A,Chocolate,0.5,2025-07-18,Yes,6.84,
+SYN-1106,3,CA,Carrier A,Chocolate,0.5,2025-09-13,Yes,69.68,Waiting for photos.
+SYN-1107,4,MO,carrier a ,Chocolate,0.2,2025-07-13,Yes,93.56,Photos received.
+SYN-1108,2,NC,Carrier A,Chocolate,0.5,2025-08-16,Yes,14.54,Partial refund accepted.
+SYN-1109,2,NJ,CARRIER B,Chocolate,0.3,2025-07-24,Yes,26.98,Waiting for photos.
+SYN-1110,2,WA,CARRIER A,Chocolate,0.2,2025-08-10,Yes,6.0,
+SYN-1111,5,NJ,carrier a ,Chocolate,0.3,2025-08-04,Yes,31.86,
+SYN-1112,4,IN,CARRIER A ,Chocolate,0.5,2025-07-24,Yes,11.61,
+SYN-1113,1,NJ,CARRIER A ,Chocolate,0.3,2025-09-19,Yes,6.83,Waiting for photos.
+SYN-1114,1,CO,carrier a ,Chocolate,0.5,2025-07-15,Yes,14.01,
+SYN-1115,4,,carrier a ,Chocolate,0.3,2025-07-03,Yes,11.95,Photos received.
+SYN-1116,3,VA,Carrier A,Chocolate,0.7,2025-08-11,Yes,13.56,Waiting for photos.
+SYN-1117,4,SC,CARRIER A,Chocolate,0.3,2025-08-31,Yes,42.72,Waiting for photos.
+SYN-1118,3,LA,Carrier A,Chocolate,0.5,2025-06-16,Yes,8.96,
+SYN-1119,6,AZ,carrier a ,Chocolate,0.7,2025-07-23,Yes,86.62,Partial refund accepted.
+SYN-1120,3,TN ,carrier a ,Chocolate,0.3,2025-09-07,Yes,5.51,Waiting for photos.
+SYN-1121,.,IL,CARRIER A ,Chocolate,0.2,2025-08-19,Yes,77.78,Photos received.
+SYN-1122,2,CO,CARRIER A ,Chocolate,0.5,2025-10-04,Yes,7.28,
+SYN-1123,7,NC,CARRIER A,Chocolate,1.0,2025-07-29,Yes,18.16,Partial refund accepted.
+SYN-1124,9,SC,CARRIER A,Hard Candy,1.0,2025-08-10,Yes,11.69,
+SYN-1125,4,,Carrier A,Chocolate,0.3,2025-07-12,Yes,13.34,Waiting for photos.
+SYN-1126,3,KS,CARRIER A ,Chocolate,0.7,2025-09-19,Yes,37.38,Photos received.
+SYN-1127,2,FL,CARRIER A ,Chocolate,0.3,2025-07-17,Yes,70.09,Waiting for photos.
+SYN-1128,5,VA,CARRIER A,Chocolate,0.3,2025-08-18,Yes,53.06,Partial refund accepted.
+SYN-1129,4,NJ,CARRIER A,Chocolate,0.5,2025-07-19,Yes,12.62,Photos received.
+SYN-1130,2,LA,carrier a ,Chocolate,0.5,2025-08-01,Yes,21.45,Photos received.
+SYN-1131,.,OK,Carrier B ,Chocolate,0.5,2025-08-16,Yes,8.99,
+SYN-1132,.,NY,CARRIER A ,Chocolate,1.0,2025-07-27,Yes,7.45,Partial refund accepted.
+SYN-1133,5,NY,CARRIER A ,Chocolate,0.3,2025-09-10,Yes,6.48,Waiting for photos.
+SYN-1134,4,FL,CARRIER A,Gummies,0.5,2025-07-20,Yes,12.26,Partial refund accepted.
+SYN-1135,4,NM,CARRIER A,Chocolate,0.3,2025-08-08,Yes,22.75,Partial refund accepted.
+SYN-1136,4,FL,carrier c,Chocolate,0.2,2025-07-15,Yes,3.25,Photos received.
+SYN-1137,.,VA,carrier a ,Chocolate,0.3,2025-07-20,Yes,17.43,Waiting for photos.
+SYN-1138,3,SC,CARRIER A ,Gummies,1.0,2025-07-22,Yes,71.12,Waiting for photos.
+SYN-1139,2,NC,carrier a ,Chocolate,0.5,2025-06-28,Yes,49.88,Photos received.
+SYN-1140,5,FL,carrier a ,Chocolate,0.3,2025-06-24,Yes,10.73,Photos received.
+SYN-1141,3,FL,Carrier A,Chocolate,0.5,2025-08-10,Yes,5.17,Waiting for photos.
+SYN-1142,3,CO,CARRIER B,Chocolate,1.0,2025-08-09,Yes,27.49,Partial refund accepted.
+SYN-1143,2,IL,CARRIER A ,Chocolate,1.0,2025-08-10,Yes,2.26,Partial refund accepted.
+SYN-1144,2,TX,CARRIER A ,Hard Candy,0.5,2025-06-12,Yes,49.36,
+SYN-1145,4,VA,CARRIER A,Chocolate,0.3,2025-07-14,Yes,15.0,Waiting for photos.
+SYN-1146,2,FL,carrier a ,Chocolate,0.5,2025-07-04,Yes,94.46,Partial refund accepted.
+SYN-1147,2,WA,Carrier A,Chocolate,1.0,2025-08-22,Yes,3.84,
+SYN-1148,5,CA,Carrier A,Chocolate,1.0,2025-09-02,Yes,41.53,Partial refund accepted.
+SYN-1149,3,FL,CARRIER A ,Chocolate,1.0,2025-07-08,Yes,16.6,
+SYN-1150,3,TX,CARRIER A ,Chocolate,0.5,2025-08-10,Yes,13.49,Photos received.
+SYN-1151,3,IL ,CARRIER B,Chocolate,0.3,2025-06-28,Yes,5.3,
+SYN-1152,5,NC,Carrier A,Chocolate,0.5,2025-07-10,Yes,31.07,Partial refund accepted.
+SYN-1153,3,,CARRIER A ,Chocolate,0.3,2025-06-29,No,33.4,Partial refund accepted.
+SYN-1154,4,NC ,CARRIER A ,Chocolate,0.2,2025-07-11,Yes,90.61,Photos received.
+SYN-1155,6,CA,CARRIER A,Chocolate,0.5,2025-08-11,No,45.03,Partial refund accepted.
+SYN-1156,4,FL,CARRIER A ,Chocolate,0.5,2025-09-11,Yes,10.65,
+SYN-1157,3,CA,Carrier A,Chocolate,1.0,2025-07-05,Yes,7.36,Partial refund accepted.
+SYN-1158,4,LA ,carrier a ,Chocolate,0.7,2025-07-30,Yes,5.3,Photos received.
+SYN-1159,3,FL ,CARRIER A,Chocolate,1.0,2025-08-14,Yes,68.44,Waiting for photos.
+SYN-1160,3,,carrier a ,Chocolate,0.7,2025-09-20,Yes,9.02,Partial refund accepted.
+SYN-1161,4,CA,CARRIER B,Chocolate,0.7,2025-08-05,Yes,68.87,
+SYN-1162,3,TX,carrier a ,Chocolate,0.2,2025-07-09,Yes,29.15,Waiting for photos.
+SYN-1163,2,FL,CARRIER A ,Gummies,0.5,2025-08-06,Yes,24.46,
+SYN-1164,3,TX,CARRIER A ,Chocolate,0.3,2025-07-13,Yes,13.79,
+SYN-1165,2,MI,CARRIER A ,Chocolate,0.2,2025-09-27,Yes,32.94,Waiting for photos.
+SYN-1166,3,IL,carrier a ,Chocolate,0.3,2025-07-19,Yes,17.92,Photos received.
+SYN-1167,4,CA,CARRIER A ,Chocolate,1.0,2025-08-12,Yes,13.04,
+SYN-1168,6,MO,carrier a ,Chocolate,0.7,2025-06-13,Yes,34.0,Partial refund accepted.
+SYN-1169,1,TN,CARR C,Chocolate,1.0,2025-07-19,Yes,15.97,
+SYN-1170,4,LA ,carrier a ,Chocolate,1.0,2025-09-05,Yes,8.86,
+SYN-1171,3,KS,CARRIER A ,Chocolate,1.0,2025-08-05,No,31.18,Waiting for photos.
+SYN-1172,1,PA,CARRIER A,Chocolate,0.3,2025-07-22,Yes,17.16,Photos received.
+SYN-1173,2,SC,Carrier B ,Chocolate,1.0,2025-09-16,Yes,28.22,
+SYN-1174,2,SC,Carrier A,Chocolate,1.0,2025-09-01,Yes,,Partial refund accepted.
+SYN-1175,2,AZ ,CARRIER A ,Chocolate,1.0,2025-07-14,Yes,6.12,Photos received.
+SYN-1176,3,VA,CARRIER A,Chocolate,0.3,2025-07-30,Yes,86.62,Partial refund accepted.
+SYN-1177,.,TX,carrier c,Chocolate,0.3,2025-07-26,Yes,73.11,Photos received.
+SYN-1178,4,NJ,CARRIER B,Chocolate,1.0,2025-08-07,Yes,40.26,Waiting for photos.
+SYN-1179,1,KS,CARRIER A ,Hard Candy,0.3,2025-07-14,Yes,,Waiting for photos.
+SYN-1180,2,TX,CARRIER B,Chocolate,0.3,2025-07-08,Yes,13.87,Waiting for photos.
+SYN-1181,2,NV,CARRIER B,Chocolate,0.5,2025-09-11,Yes,63.06,Partial refund accepted.
+SYN-1182,4,LA,CARRIER A ,Chocolate,0.3,2025-09-13,,13.22,
+SYN-1183,3,FL,Carrier A,Chocolate,0.2,2025-08-31,Yes,10.29,Waiting for photos.
+SYN-1184,4,IL,CARRIER A ,Chocolate,1.0,2025-09-28,Yes,98.0,Partial refund accepted.
+SYN-1185,2,,carrier a ,Chocolate,1.0,2025-08-18,Yes,17.41,
+SYN-1186,1,AL,CARRIER A,Chocolate,1.0,2025-08-21,Yes,89.26,Partial refund accepted.
+SYN-1187,6,TX,CARRIER A,Chocolate,0.3,2025-08-20,Yes,5.16,Waiting for photos.
+SYN-1188,2,CA,Carrier A,Chocolate,0.3,2025-07-25,No,28.97,Partial refund accepted.
+SYN-1189,2,PA,CARRIER A,Chocolate,0.4,2025-07-23,Yes,117.21,Waiting for photos.
+SYN-1190,2,FL,CARRIER B,Chocolate,0.5,2025-07-08,Yes,18.67,Waiting for photos.
+SYN-1191,9,CA,CARRIER A ,Chocolate,0.2,2025-08-08,Yes,14.33,Partial refund accepted.
+SYN-1192,4,TX,CARRIER A ,Chocolate,0.7,2025-07-11,Yes,6.35,Waiting for photos.
+SYN-1193,4,TX,Carrier A,Chocolate,1.0,2025-07-09,Yes,,Photos received.
+SYN-1194,9,NY,CARRIER A,Chocolate,0.5,2025-08-03,Yes,9.09,
+SYN-1195,.,,CARRIER A,Chocolate,0.3,2025-07-20,Yes,16.69,Partial refund accepted.
+SYN-1196,7,MO,CARRIER A ,Chocolate,0.3,2025-07-06,Yes,5.98,Photos received.
+SYN-1197,2,MI,Carrier A,Chocolate,0.2,2025-08-27,Yes,73.79,Waiting for photos.
+SYN-1198,4,GA,CARRIER A,Chocolate,0.3,2025-09-02,Yes,51.39,Waiting for photos.
+SYN-1199,3,FL,Carrier A,Chocolate,0.5,2025-07-02,Yes,17.66,
+SYN-1200,3,TX,Carrier A,Chocolate,0.4,2025-06-08,Yes,6.43,
+SYN-1201,6,FL,carrier c,Chocolate,0.5,2025-07-14,Yes,,Partial refund accepted.
+SYN-1202,2,CA,Carrier A,Chocolate,1.0,2025-08-25,Yes,13.07,Waiting for photos.
+SYN-1203,9,FL,CARRIER A ,Chocolate,0.3,2025-08-30,Yes,6.72,Photos received.
+SYN-1204,3,TX,carrier a ,Chocolate,0.2,2025-06-29,Yes,3.72,Photos received.
+SYN-1205,4,,CARRIER A ,Chocolate,0.2,2025-08-22,Yes,10.16,Photos received.
+SYN-1206,7,MO,Carrier A,Chocolate,0.3,2025-06-27,Yes,4.91,
+SYN-1207,.,TN,carrier a ,Chocolate,0.5,2025-07-18,,10.38,Photos received.
+SYN-1208,6,LA,Carrier A,Chocolate,1.0,2025-10-10,Yes,35.52,Partial refund accepted.
+SYN-1209,4,SC,carrier a ,Chocolate,1.0,2025-07-04,Yes,12.96,
+SYN-1210,4,NY,carrier a ,Hard Candy,0.5,2025-07-01,Yes,25.03,Waiting for photos.
+SYN-1211,2,TX,Carrier A,Gummies,0.4,2025-07-21,Yes,9.48,Partial refund accepted.
+SYN-1212,4,NY,CARRIER A ,Chocolate,0.3,2025-08-06,Yes,19.27,
+SYN-1213,4,TX,CARRIER A ,Chocolate,0.4,2025-09-15,Yes,102.39,Waiting for photos.
+SYN-1214,3,NC,CARRIER A ,Chocolate,0.3,2025-09-29,Yes,13.28,Waiting for photos.
+SYN-1215,2,GA,CARRIER A,Chocolate,1.0,2025-06-21,Yes,25.69,Photos received.
+SYN-1216,2,NC,carrier a ,Chocolate,0.5,2025-06-29,Yes,4.44,Waiting for photos.
+SYN-1217,5,CA,CARRIER A,Chocolate,0.3,2025-08-24,Yes,71.39,
+SYN-1218,1,PA,CARRIER B,Chocolate,0.3,2025-07-10,Yes,11.83,Partial refund accepted.
+SYN-1219,4,NV,CARRIER A ,Chocolate,0.3,2025-09-06,Yes,46.78,Photos received.
+SYN-1220,.,MI,CARRIER A,Chocolate,1.0,2025-08-10,Yes,16.27,Partial refund accepted.
+SYN-1221,.,TN,CARRIER A ,Chocolate,0.2,2025-06-26,Yes,31.51,Partial refund accepted.
+SYN-1222,2,IL,Carrier A,Chocolate,0.2,2025-08-29,Yes,33.25,Photos received.
+SYN-1223,4,,CARRIER C,Chocolate,0.3,2025-07-03,Yes,12.1,
+SYN-1224,2,VA,CARRIER A,Chocolate,1.0,2025-07-21,Yes,48.56,Photos received.
+SYN-1225,4,NY,CARRIER B,Chocolate,0.5,2025-07-31,Yes,9.18,Waiting for photos.
+SYN-1226,4,FL,carrier a ,Chocolate,0.5,2025-07-27,Yes,36.6,Waiting for photos.
+SYN-1227,.,CA,Carrier A,Chocolate,0.3,2025-08-12,Yes,12.79,Partial refund accepted.
+SYN-1228,3,LA,CARRIER A ,Chocolate,0.2,2025-08-09,Yes,24.89,
+SYN-1229,4,TN,Carrier A,Chocolate,1.0,2025-10-04,Yes,,Photos received.
+SYN-1230,4,AZ,carrier a ,Chocolate,0.3,2025-10-12,Yes,19.01,Waiting for photos.
+SYN-1231,2,TN,Carrier A,Chocolate,0.2,2025-07-28,Yes,6.91,Waiting for photos.
+SYN-1232,4,GA,carrier c,Chocolate,0.5,2025-06-24,Yes,22.71,
+SYN-1233,.,AZ,CARRIER A,Chocolate,0.2,2025-08-17,Yes,18.91,
+SYN-1234,4,CA,Carrier B ,Chocolate,0.2,2025-09-27,Yes,11.18,Waiting for photos.
+SYN-1235,3,NC,carrier a ,Chocolate,1.0,2025-07-13,Yes,17.3,Partial refund accepted.
+SYN-1236,3,PA,carrier a ,Chocolate,0.5,2025-07-24,Yes,20.5,
+SYN-1237,2,TX,Carrier A,Chocolate,0.3,2025-07-21,Yes,10.44,
+SYN-1238,2,SC,carrier a ,Chocolate,0.3,2025-06-18,Yes,16.19,Partial refund accepted.
+SYN-1239,1,CA,carrier a ,Chocolate,0.7,2025-08-11,Yes,7.35,Partial refund accepted.
+SYN-1240,9,PA,Carrier A,Chocolate,0.2,2025-07-16,Yes,150.08,
+SYN-1241,2,TN,CARRIER A,Chocolate,0.3,2025-08-23,Yes,47.14,Photos received.
+SYN-1242,5,MO,carrier a ,Chocolate,0.5,2025-08-29,Yes,23.24,Waiting for photos.
+SYN-1243,2,OH,CARRIER A ,Chocolate,0.5,2025-08-28,Yes,52.19,Partial refund accepted.
+SYN-1244,3,AL,CARRIER A ,Chocolate,1.0,2025-07-20,No,3.06,Photos received.
+SYN-1245,3,IL,carrier a ,Hard Candy,0.3,2025-07-13,Yes,1.82,Partial refund accepted.
+SYN-1246,3,VA,CARRIER A ,Chocolate,0.2,2025-08-19,Yes,12.69,
+SYN-1247,5,VA,CARRIER A ,Chocolate,0.5,2025-08-25,Yes,5.26,Photos received.
+SYN-1248,7,FL,carrier a ,Chocolate,0.5,2025-07-26,Yes,14.69,
+SYN-1249,5,CA,CARRIER A,Chocolate,0.3,2025-09-08,Yes,21.87,Waiting for photos.
+SYN-1250,2,GA,carrier a ,Chocolate,0.5,2025-06-30,No,41.61,
+SYN-1251,5,CA,carrier a ,Chocolate,0.3,2025-09-05,Yes,6.52,Partial refund accepted.
+SYN-1252,2,CA,Carrier A,Chocolate,1.0,2025-06-24,Yes,26.04,Photos received.
+SYN-1253,6,GA,CARRIER A ,Chocolate,1.0,2025-06-30,Yes,18.41,Partial refund accepted.
+SYN-1254,4,OH,CARRIER A ,Chocolate,0.4,2025-07-29,Yes,24.85,Photos received.
+SYN-1255,3,FL,Carrier A,Chocolate,1.0,2025-06-21,Yes,11.38,Photos received.
+SYN-1256,2,,Carrier A,Chocolate,1.0,2025-06-18,No,63.11,
+SYN-1257,1,NC,CARRIER A,Chocolate,0.3,2025-06-03,Yes,16.56,
+SYN-1258,2,,CARRIER A,Chocolate,0.3,2025-07-22,Yes,89.73,Photos received.
+SYN-1259,6,TX,Carrier A,Chocolate,0.5,2025-08-22,Yes,8.92,Waiting for photos.
+SYN-1260,5,AZ,Carrier A,Chocolate,0.2,2025-06-15,Yes,35.46,Photos received.
+SYN-1261,7,TX,Carrier A,Chocolate,0.3,2025-08-09,Yes,17.22,Waiting for photos.
+SYN-1262,2,PA,CARRIER A,Gummies,0.3,2025-08-28,Yes,13.53,
+SYN-1263,4,CA,Carrier A,Chocolate,1.0,2025-07-02,Yes,32.11,Photos received.
+SYN-1264,.,AL,Carrier B ,Chocolate,0.4,2025-06-30,Yes,13.88,Partial refund accepted.
+SYN-1265,.,CA,Carrier A,Chocolate,0.7,2025-09-02,Yes,1.66,
+SYN-1266,3,NY,carrier a ,Chocolate,0.3,2025-08-28,Yes,1.15,
+SYN-1267,3,FL,Carrier A,Chocolate,0.3,2025-07-30,No,57.12,Waiting for photos.
+SYN-1268,4,TN,carrier a ,Chocolate,1.0,2025-08-27,Yes,54.99,Partial refund accepted.
+SYN-1269,2,AZ,carrier a ,Chocolate,0.2,2025-06-24,Yes,99.35,Waiting for photos.
+SYN-1270,3,CA,CARRIER A ,Chocolate,0.2,2025-07-19,Yes,17.89,Photos received.
+SYN-1271,4,FL,CARRIER A,Chocolate,0.3,2025-08-18,Yes,5.68,Photos received.
+SYN-1272,2,TX,CARRIER A ,Chocolate,0.5,2025-07-09,Yes,12.46,Partial refund accepted.
+SYN-1273,6,TX,Carrier A,Chocolate,0.3,2025-08-19,Yes,18.36,Partial refund accepted.
+SYN-1274,4,IN,CARRIER A,Chocolate,0.2,2025-07-27,Yes,7.34,Partial refund accepted.
+SYN-1275,.,GA,carrier a ,Chocolate,0.3,2025-08-19,,80.14,
+SYN-1276,4,TX,CARRIER A,Chocolate,0.3,2025-07-24,No,136.39,Partial refund accepted.
+SYN-1277,4,AL,CARRIER A,Chocolate,0.2,2025-07-17,Yes,27.95,Waiting for photos.
+SYN-1278,4,TX,CARRIER A ,Chocolate,0.5,2025-07-06,Yes,18.0,Waiting for photos.
+SYN-1279,5,GA,CARRIER A,Chocolate,0.3,2025-07-05,Yes,5.67,
+SYN-1280,4,VA,carrier a ,Chocolate,0.3,2025-08-19,Yes,73.1,
+SYN-1281,3,OK,CARRIER A,Chocolate,0.5,2025-06-27,Yes,19.47,Photos received.
+SYN-1282,2,VA,CARRIER A,Chocolate,0.7,2025-06-23,Yes,14.01,
+SYN-1283,4,NC,CARRIER A,Chocolate,0.3,2025-07-03,Yes,28.02,Photos received.
+SYN-1284,2,NM,CARRIER A,Chocolate,0.3,2025-07-02,Yes,10.73,
+SYN-1285,2,,Carrier A,Chocolate,0.3,2025-08-28,Yes,20.74,Partial refund accepted.
+SYN-1286,2,IN,Carrier A,Chocolate,1.0,2025-07-19,Yes,4.96,Partial refund accepted.
+SYN-1287,4,CO,CARRIER A,Chocolate,0.3,2025-10-03,Yes,48.35,Partial refund accepted.
+SYN-1288,2,LA,Carrier A,Chocolate,0.3,2025-06-29,Yes,16.54,Partial refund accepted.
+SYN-1289,4,FL,Carrier A,Chocolate,0.4,2025-08-09,Yes,51.57,Waiting for photos.
+SYN-1290,5,TX,carrier a ,Chocolate,0.3,2025-07-23,Yes,15.16,
+SYN-1291,.,MO,CARRIER A ,Chocolate,0.3,2025-07-18,Yes,16.08,Partial refund accepted.
+SYN-1292,3,IL,CARRIER B,Chocolate,0.2,2025-09-05,Yes,6.1,Partial refund accepted.
+SYN-1293,.,IL,CARRIER A ,Chocolate,0.5,2025-09-27,Yes,36.01,Waiting for photos.
+SYN-1294,4,LA,CARRIER A,Chocolate,0.5,2025-09-04,Yes,8.26,Photos received.
+SYN-1295,3,TN,CARRIER B,Chocolate,0.5,2025-07-04,Yes,11.73,Partial refund accepted.
+SYN-1296,4,CA,CARR C,Chocolate,0.7,2025-07-06,Yes,18.19,Waiting for photos.
+SYN-1297,2,GA,Carrier A,Chocolate,0.3,2025-08-09,Yes,20.27,Partial refund accepted.
+SYN-1298,.,TX,CARRIER A ,Chocolate,1.0,2025-07-11,Yes,3.91,Waiting for photos.
+SYN-1299,2,FL,Carrier A,Chocolate,0.7,2025-08-17,Yes,14.77,
+SYN-1300,5,TX,CARRIER A,Chocolate,1.0,2025-08-01,Yes,37.18,Partial refund accepted.
+SYN-1301,4,SC,CARRIER A ,Chocolate,0.7,2025-07-31,Yes,12.93,Waiting for photos.
+SYN-1302,2,VA,carrier a ,Chocolate,0.3,2025-08-29,Yes,14.85,Partial refund accepted.
+SYN-1303,4,IL,CARRIER A ,Chocolate,0.3,2025-08-15,Yes,21.03,Partial refund accepted.
+SYN-1304,2,CA ,Carrier A,Chocolate,0.4,2025-06-14,Yes,16.23,Partial refund accepted.
+SYN-1305,5,MO,CARRIER A,Chocolate,0.2,2025-06-18,Yes,7.19,Partial refund accepted.
+SYN-1306,4,SC,carrier a ,Chocolate,0.5,2025-08-04,Yes,17.59,
+SYN-1307,2,MA,CARRIER A,Chocolate,0.2,2025-07-26,No,44.46,Waiting for photos.
+SYN-1308,2,,carrier a ,Chocolate,0.2,2025-07-09,Yes,7.06,Waiting for photos.
+SYN-1309,4,,Carrier A,Chocolate,1.0,2025-07-20,Yes,12.97,Waiting for photos.
+SYN-1310,3,IL,CARRIER A ,Chocolate,0.5,2025-08-20,Yes,5.24,Partial refund accepted.
+SYN-1311,5,AZ,CARRIER A ,Chocolate,0.5,2025-08-28,Yes,,
+SYN-1312,5,,Carrier A,Chocolate,0.3,2025-08-01,Yes,,Partial refund accepted.
+SYN-1313,4,GA,CARRIER A ,Chocolate,0.5,2025-07-18,Yes,8.46,Photos received.
+SYN-1314,3,GA,CARRIER A,Chocolate,1.0,2025-07-10,Yes,19.75,
+SYN-1315,4,CA,CARRIER A,Chocolate,0.5,2025-07-28,Yes,6.15,
+SYN-1316,6,IL,CARRIER A ,Chocolate,0.5,2025-07-13,Yes,7.17,Waiting for photos.
+SYN-1317,2,NY,carrier a ,Chocolate,0.5,2025-08-01,Yes,4.88,Photos received.
+SYN-1318,3,MO,Carrier A,Chocolate,0.3,2025-08-11,Yes,6.96,Waiting for photos.
+SYN-1319,2,NC,CARRIER B,Chocolate,0.5,2025-06-21,Yes,61.66,
+SYN-1320,3,FL,CARRIER B,Gummies,1.0,2025-06-04,Yes,9.4,Partial refund accepted.
+SYN-1321,4,,carrier a ,Chocolate,0.4,2025-07-06,Yes,27.65,Photos received.
+SYN-1322,.,,CARRIER A ,Chocolate,0.3,2025-09-08,Yes,8.56,Photos received.
+SYN-1323,4,LA,CARRIER A ,Chocolate,0.4,2025-08-08,Yes,36.0,
+SYN-1324,3,FL,Carrier A,Chocolate,0.4,2025-07-02,,7.22,Waiting for photos.
+SYN-1325,2,NY,Carrier A,Chocolate,1.0,2025-09-07,Yes,18.83,Partial refund accepted.
+SYN-1326,3,IL,CARRIER A,Chocolate,0.7,2025-07-24,Yes,,Waiting for photos.
+SYN-1327,.,NV,CARRIER A,Chocolate,0.3,2025-07-25,Yes,147.68,Photos received.
+SYN-1328,4,TX,Carrier A,Chocolate,0.3,2025-09-16,,32.05,Waiting for photos.
+SYN-1329,.,OK,carrier a ,Chocolate,0.4,2025-06-20,Yes,10.66,Partial refund accepted.
+SYN-1330,5,,CARRIER A,Gummies,0.2,2025-07-06,Yes,33.67,Waiting for photos.
+SYN-1331,2,OH,Carrier A,Chocolate,0.5,2025-08-03,Yes,124.51,Partial refund accepted.
+SYN-1332,2,IL,carrier a ,Hard Candy,1.0,2025-07-04,No,4.19,Waiting for photos.
+SYN-1333,2,TX,CARRIER A ,Chocolate,0.5,2025-08-12,Yes,8.51,Waiting for photos.
+SYN-1334,9,AZ,CARRIER A ,Chocolate,0.3,2025-07-06,Yes,14.68,Waiting for photos.
+SYN-1335,4,FL,Carrier A,Chocolate,0.7,2025-06-25,Yes,12.49,Waiting for photos.
+SYN-1336,4,CA,Carrier A,Chocolate,0.7,2025-07-05,,13.47,Waiting for photos.
+SYN-1337,1,MO,CARRIER A ,Chocolate,0.3,2025-07-21,Yes,5.62,Partial refund accepted.
+SYN-1338,2,AZ,carrier a ,Chocolate,0.5,2025-07-03,Yes,64.3,Waiting for photos.
+SYN-1339,4,TX,CARRIER B,Chocolate,0.5,2025-06-29,Yes,5.05,Partial refund accepted.
+SYN-1340,3,TX,carrier a ,Chocolate,1.0,2025-09-02,Yes,15.18,Waiting for photos.
+SYN-1341,6,FL,CARRIER C,Chocolate,0.3,2025-07-13,Yes,46.58,Waiting for photos.
+SYN-1342,5,FL,Carrier A,Chocolate,0.3,2025-07-16,Yes,17.69,
+SYN-1343,3,OH,Carrier A,Chocolate,0.5,2025-06-19,Yes,7.53,
+SYN-1344,4,FL,CARRIER A ,Chocolate,0.2,2025-07-16,Yes,5.4,Waiting for photos.
+SYN-1345,7,MA,CARRIER A,Chocolate,0.4,2025-07-10,Yes,14.78,Waiting for photos.
+SYN-1346,3,FL,CARRIER B,Hard Candy,0.7,2025-08-05,Yes,9.2,Partial refund accepted.
+SYN-1347,4,TX,Carrier A,Chocolate,0.3,2025-07-05,,21.86,Photos received.
+SYN-1348,6,WA,CARRIER A,Chocolate,0.5,2025-09-07,Yes,5.15,Waiting for photos.
+SYN-1349,2,CA,carrier a ,Chocolate,1.0,2025-09-15,Yes,37.78,Partial refund accepted.
+SYN-1350,5,GA,carrier a ,Chocolate,0.5,2025-06-25,Yes,20.17,Partial refund accepted.
+SYN-1351,2,AL,CARRIER A,Chocolate,0.5,2025-06-26,Yes,21.56,Photos received.
+SYN-1352,4,AL,CARRIER A,Chocolate,0.5,2025-06-27,Yes,66.48,Photos received.
+SYN-1353,5,VA,CARRIER A,Chocolate,0.3,2025-08-06,Yes,12.26,Waiting for photos.
+SYN-1354,4,TX ,Carrier A,Chocolate,0.3,2025-06-27,Yes,,Photos received.
+SYN-1355,3,OH,CARRIER A,Chocolate,0.5,2025-09-01,Yes,11.1,Partial refund accepted.
+SYN-1356,4,IN,carrier a ,Hard Candy,0.3,2025-08-20,Yes,15.28,
+SYN-1357,2,AL,CARRIER A,Chocolate,0.3,2025-08-28,Yes,16.75,Waiting for photos.
+SYN-1358,2,TX,CARRIER A ,Chocolate,0.2,2025-07-29,Yes,8.61,Waiting for photos.
+SYN-1359,.,GA,CARRIER A ,Chocolate,1.0,2025-10-08,Yes,2.94,Photos received.
+SYN-1360,4,CA,CARRIER B,Chocolate,0.2,2025-06-17,Yes,10.97,Photos received.
+SYN-1361,3,TX,CARRIER A ,Chocolate,0.7,2025-07-19,Yes,,Partial refund accepted.
+SYN-1362,2,PA,CARRIER A ,Chocolate,0.3,2025-07-14,,20.55,Waiting for photos.
+SYN-1363,5,FL,CARRIER A,Chocolate,0.5,2025-09-19,Yes,53.5,Partial refund accepted.
+SYN-1364,3,CA,Carrier A,Chocolate,0.3,2025-08-02,Yes,105.63,Partial refund accepted.
+SYN-1365,3,TX,CARRIER A ,Chocolate,0.3,2025-08-26,Yes,36.0,
+SYN-1366,3,AZ,Carrier A,Chocolate,0.5,2025-07-02,Yes,63.07,Photos received.
+SYN-1367,2,TX,carrier a ,Chocolate,0.5,2025-09-28,Yes,36.24,Partial refund accepted.
+SYN-1368,4,NC,CARRIER A ,Chocolate,0.3,2025-07-27,Yes,84.68,
+SYN-1369,3,TX,CARRIER B,Chocolate,0.4,2025-07-26,Yes,96.14,Waiting for photos.
+SYN-1370,1,,Carrier A,Chocolate,0.4,2025-09-25,Yes,42.78,Photos received.
+SYN-1371,7,TX,Carrier A,Chocolate,0.3,2025-07-18,Yes,34.32,Waiting for photos.
+SYN-1372,5,IL,CARRIER A,Chocolate,0.5,2025-07-19,Yes,15.11,
+SYN-1373,4,FL,Carrier A,Chocolate,0.3,2025-08-03,Yes,17.51,
+SYN-1374,5,TX,Carrier A,Chocolate,0.5,2025-06-28,Yes,13.41,Waiting for photos.
+SYN-1375,6,FL,Carrier A,Chocolate,0.3,2025-07-13,Yes,31.79,Photos received.
+SYN-1376,3,TX,Carrier B ,Chocolate,0.5,2025-07-04,Yes,9.5,Waiting for photos.
+SYN-1377,4,TX,CARRIER A ,Chocolate,0.3,2025-06-25,,15.3,Photos received.
+SYN-1378,4,AZ,CARRIER A ,Chocolate,0.5,2025-09-03,Yes,2.18,Partial refund accepted.
+SYN-1379,3,MO,carrier a ,Chocolate,0.4,2025-08-03,No,85.69,
+SYN-1380,2,TX,CARRIER A,Chocolate,1.0,2025-07-16,Yes,,Photos received.
+SYN-1381,2,NC,Carrier B ,Chocolate,0.5,2025-07-20,No,,Partial refund accepted.
+SYN-1382,4,NY,carrier a ,Chocolate,1.0,2025-07-21,Yes,67.49,
+SYN-1383,5,FL,CARRIER A,Chocolate,0.3,2025-08-07,Yes,23.81,Partial refund accepted.
+SYN-1384,5,CA,Carrier A,Chocolate,0.3,2025-09-14,Yes,66.68,
+SYN-1385,3,TX,CARR C,Chocolate,0.2,2025-09-15,Yes,5.94,Photos received.
+SYN-1386,2,FL,CARRIER A ,Chocolate,0.4,2025-07-18,Yes,157.22,Partial refund accepted.
+SYN-1387,3,AZ,CARR C,Chocolate,0.5,2025-07-14,Yes,48.35,Photos received.
+SYN-1388,4,IN,Carrier A,Chocolate,1.0,2025-07-23,Yes,21.94,
+SYN-1389,6,IN,Carrier A,Chocolate,0.5,2025-08-01,Yes,65.53,Waiting for photos.
+SYN-1390,5,NM ,Carrier A,Chocolate,0.5,2025-07-24,Yes,6.35,Photos received.
+SYN-1391,.,GA,carrier a ,Chocolate,0.3,2025-08-10,Yes,14.02,Partial refund accepted.
+SYN-1392,5,TX,Carrier A,Chocolate,0.2,2025-07-31,Yes,66.67,Partial refund accepted.
+SYN-1393,7,CA,Carrier A,Chocolate,0.7,2025-07-13,Yes,3.39,Waiting for photos.
+SYN-1394,3,FL,CARRIER A,Chocolate,0.3,2025-07-15,Yes,30.1,Waiting for photos.
+SYN-1395,2,TX,Carrier A,Chocolate,0.2,2025-07-17,Yes,29.34,Photos received.
+SYN-1396,2,TX,CARRIER A,Chocolate,1.0,2025-06-24,Yes,106.94,
+SYN-1397,3,NC,carrier a ,Chocolate,1.0,2025-07-02,Yes,4.37,Photos received.
+SYN-1398,2,CA,CARRIER A ,Chocolate,0.5,2025-08-16,Yes,77.38,
+SYN-1399,2,FL,CARRIER A ,Chocolate,0.3,2025-07-18,Yes,10.98,Partial refund accepted.
+SYN-1400,7,VA,Carrier A,Chocolate,1.0,2025-07-06,Yes,12.15,Partial refund accepted.
+SYN-1401,2,,CARRIER B,Chocolate,0.3,2025-08-01,Yes,6.05,Partial refund accepted.
+SYN-1402,7,,CARRIER A ,Chocolate,0.4,2025-08-20,Yes,6.83,
+SYN-1403,5,FL,Carrier A,Chocolate,0.3,2025-07-09,Yes,26.13,Photos received.
+SYN-1404,4,IL,CARR C,Chocolate,1.0,2025-08-28,Yes,6.68,
+SYN-1405,4,FL,Carrier A,Chocolate,1.0,2025-09-14,Yes,35.38,Photos received.
+SYN-1406,.,AZ,CARRIER A ,Chocolate,0.5,2025-08-04,Yes,10.01,
+SYN-1407,4,TX,Carrier A,Chocolate,0.3,2025-08-11,Yes,6.1,Waiting for photos.
+SYN-1408,2,FL,Carrier A,Chocolate,0.5,2025-06-18,Yes,11.3,
+SYN-1409,6,OH,CARRIER C,Chocolate,0.3,2025-09-18,Yes,24.61,Photos received.
+SYN-1410,3,FL,CARRIER A ,Chocolate,1.0,2025-07-18,No,14.16,Waiting for photos.
+SYN-1411,2,FL,Carrier A,Chocolate,0.3,2025-09-13,Yes,18.74,Partial refund accepted.
+SYN-1412,4,LA,CARRIER A ,Chocolate,0.2,2025-08-02,Yes,,
+SYN-1413,4,TX,CARRIER B,Chocolate,0.7,2025-06-07,Yes,48.14,Photos received.
+SYN-1414,.,NY,carrier a ,Chocolate,0.5,2025-06-16,Yes,13.75,Photos received.
+SYN-1415,4,NY,Carrier A,Gummies,1.0,2025-08-12,Yes,7.1,Partial refund accepted.
+SYN-1416,2,FL,Carrier A,Chocolate,0.2,2025-08-01,Yes,19.46,Photos received.
+SYN-1417,4,NC,CARRIER A,Chocolate,1.0,2025-06-14,Yes,27.76,
+SYN-1418,3,TX,CARRIER A,Chocolate,0.2,2025-08-18,Yes,4.88,Photos received.
+SYN-1419,3,VA,Carrier B ,Chocolate,0.2,2025-09-01,Yes,8.15,
+SYN-1420,2,FL,Carrier A,Chocolate,0.5,2025-07-26,Yes,9.51,Partial refund accepted.
+SYN-1421,3,FL,CARRIER A ,Hard Candy,0.3,2025-07-24,Yes,15.07,
+SYN-1422,3,CA,Carrier A,Chocolate,0.5,2025-06-07,Yes,,Photos received.
+SYN-1423,.,OK,CARRIER A,Chocolate,0.2,2025-08-23,Yes,34.34,Waiting for photos.
+SYN-1424,2,SC,Carrier A,Chocolate,0.2,2025-07-14,Yes,4.29,Waiting for photos.
+SYN-1425,2,AL,carrier a ,Chocolate,0.7,2025-09-05,Yes,4.39,Photos received.
+SYN-1426,4,MO,Carrier A,Chocolate,0.3,2025-07-17,Yes,13.46,Photos received.
+SYN-1427,2,MO,CARRIER A ,Chocolate,0.5,2025-08-01,Yes,15.52,Waiting for photos.
+SYN-1428,4,AZ,Carrier A,Chocolate,0.7,2025-07-10,Yes,4.91,Partial refund accepted.
+SYN-1429,6,OK,carrier a ,Chocolate,0.2,2025-07-01,Yes,10.53,Partial refund accepted.
+SYN-1430,3,IL,CARRIER B,Chocolate,0.7,2025-08-22,Yes,12.67,Photos received.
+SYN-1431,6,CA ,CARRIER A,Chocolate,0.3,2025-07-26,Yes,12.76,Photos received.
+SYN-1432,2,TN,CARRIER A ,Chocolate,0.3,2025-07-30,Yes,20.84,Partial refund accepted.
+SYN-1433,2,NY,Carrier A,Chocolate,0.2,2025-09-23,Yes,10.02,Waiting for photos.
+SYN-1434,4,TX,Carrier A,Chocolate,1.0,2025-09-23,Yes,68.72,
+SYN-1435,5,GA,carrier a ,Chocolate,0.5,2025-09-02,Yes,28.2,Waiting for photos.
+SYN-1436,5,CA,CARRIER A,Chocolate,0.5,2025-07-04,Yes,8.79,Waiting for photos.
+SYN-1437,2,CO,carrier a ,Chocolate,1.0,2025-08-04,Yes,19.79,Photos received.
+SYN-1438,5,GA,Carrier A,Chocolate,0.3,2025-09-05,Yes,20.32,Waiting for photos.
+SYN-1439,3,SC,CARRIER A,Gummies,1.0,2025-07-17,Yes,54.23,Partial refund accepted.
+SYN-1440,3,NC,Carrier A,Chocolate,0.7,2025-06-25,Yes,10.59,Waiting for photos.
+SYN-1441,2,NJ ,Carrier A,Chocolate,1.0,2025-08-26,Yes,36.26,Partial refund accepted.
+SYN-1442,9,,CARRIER A,Hard Candy,1.0,2025-07-25,Yes,18.87,Photos received.
+SYN-1443,2,LA,carrier a ,Chocolate,1.0,2025-08-01,Yes,69.58,Partial refund accepted.
+SYN-1444,5,AZ,carrier a ,Chocolate,0.3,2025-09-29,Yes,58.08,Waiting for photos.
+SYN-1445,4,FL,Carrier A,Chocolate,0.7,2025-08-05,Yes,21.7,
+SYN-1446,4,FL,CARR C,Chocolate,1.0,2025-07-21,Yes,14.35,Waiting for photos.
+SYN-1447,4,FL,carrier a ,Chocolate,0.5,2025-07-17,Yes,28.67,Photos received.
+SYN-1448,5,CA,CARRIER A ,Chocolate,0.3,2025-07-20,Yes,15.45,Partial refund accepted.
+SYN-1449,2,VA,CARRIER A,Chocolate,1.0,2025-06-27,,82.46,Photos received.
+SYN-1450,1,AL,CARRIER A ,Chocolate,0.3,2025-08-24,Yes,19.5,
+SYN-1451,4,MO,Carrier B ,Chocolate,0.5,2025-08-30,Yes,12.62,Waiting for photos.
+SYN-1452,.,NY,carrier a ,Chocolate,0.5,2025-07-11,Yes,12.02,
+SYN-1453,2,,CARRIER A ,Chocolate,0.3,2025-07-12,Yes,6.1,Partial refund accepted.
+SYN-1454,2,NV,Carrier A,Chocolate,0.7,2025-09-04,No,29.99,Waiting for photos.
+SYN-1455,3,CO,Carrier A,Chocolate,0.2,2025-06-13,Yes,8.69,Partial refund accepted.
+SYN-1456,2,CA,CARRIER C,Chocolate,0.5,2025-07-28,Yes,48.83,Photos received.
+SYN-1457,2,AL,carrier a ,Chocolate,1.0,2025-07-24,Yes,,Photos received.
+SYN-1458,6,GA,CARRIER A ,Chocolate,0.3,2025-08-13,Yes,20.38,
+SYN-1459,3,SC,Carrier A,Chocolate,0.7,2025-07-01,Yes,51.17,
+SYN-1460,.,KS,CARRIER A,Chocolate,0.3,2025-08-10,Yes,2.62,
+SYN-1461,7,VA,Carrier A,Chocolate,1.0,2025-07-17,No,111.77,Waiting for photos.
+SYN-1462,2,FL,Carrier B ,Chocolate,1.0,2025-08-06,Yes,12.39,Waiting for photos.
+SYN-1463,.,OH,CARRIER A ,Chocolate,0.3,2025-06-16,Yes,20.63,Waiting for photos.
+SYN-1464,4,TX,CARRIER A,Chocolate,0.5,2025-07-24,Yes,,Partial refund accepted.
+SYN-1465,4,MI,Carrier A,Chocolate,0.5,2025-07-28,Yes,34.94,Partial refund accepted.
+SYN-1466,2,CA,carrier a ,Chocolate,0.5,2025-07-06,Yes,23.25,
+SYN-1467,2,PA ,CARRIER B,Gummies,0.7,2025-06-29,Yes,44.6,
+SYN-1468,2,OK,CARRIER A ,Chocolate,0.5,2025-07-04,Yes,29.0,Waiting for photos.
+SYN-1469,4,FL,CARRIER A ,Chocolate,0.5,2025-07-15,Yes,88.66,Partial refund accepted.
+SYN-1470,9,GA,Carrier A,Chocolate,0.3,2025-06-25,Yes,29.08,Partial refund accepted.
+SYN-1471,4,MO,carrier a ,Chocolate,0.3,2025-09-19,Yes,106.5,
+SYN-1472,4,GA,CARRIER A ,Chocolate,1.0,2025-07-19,Yes,40.89,Waiting for photos.
+SYN-1473,9,FL,carrier a ,Chocolate,0.3,2025-08-26,Yes,3.58,Photos received.
+SYN-1474,4,TX,CARRIER A,Gummies,0.5,2025-09-26,Yes,190.56,Waiting for photos.
+SYN-1475,2,GA,CARRIER A,Chocolate,0.3,2025-06-23,Yes,10.84,Partial refund accepted.
+SYN-1476,5,MO,Carrier A,Gummies,1.0,2025-08-09,Yes,69.82,
+SYN-1477,3,NY,CARRIER A,Chocolate,0.5,2025-09-04,Yes,18.62,
+SYN-1478,1,TX,Carrier A,Chocolate,0.4,2025-08-07,Yes,47.23,Photos received.
+SYN-1479,4,NC,carrier a ,Chocolate,0.3,2025-07-21,Yes,9.78,Partial refund accepted.
+SYN-1480,6,CA,carrier a ,Chocolate,0.4,2025-07-21,Yes,31.92,Photos received.
+SYN-1481,2,FL,CARRIER A,Chocolate,1.0,2025-06-16,Yes,14.47,Waiting for photos.
+SYN-1482,3,VA,CARRIER A,Chocolate,0.5,2025-07-29,Yes,75.27,
+SYN-1483,2,CA,CARRIER A,Chocolate,0.5,2025-10-05,Yes,26.97,
+SYN-1484,2,IL,Carrier A,Chocolate,0.7,2025-09-22,Yes,42.2,Photos received.
+SYN-1485,2,LA,CARRIER A ,Chocolate,0.3,2025-06-16,Yes,2.59,Photos received.
+SYN-1486,4,IL,Carrier A,Chocolate,0.4,2025-08-14,Yes,16.83,Partial refund accepted.
+SYN-1487,5,TN,Carrier A,Chocolate,0.3,2025-07-12,Yes,26.3,Waiting for photos.
+SYN-1488,2,TX,carrier a ,Gummies,0.3,2025-09-09,Yes,22.23,Waiting for photos.
+SYN-1489,3,FL,CARRIER A,Chocolate,0.7,2025-06-17,,43.17,
+SYN-1490,2,TX,CARRIER A,Chocolate,1.0,2025-09-16,No,13.07,
+SYN-1491,1,MI,CARRIER A,Chocolate,1.0,2025-08-30,Yes,18.99,
+SYN-1492,.,NV,carrier a ,Chocolate,1.0,2025-06-27,Yes,52.62,
+SYN-1493,4,FL,Carrier A,Chocolate,0.5,2025-06-20,Yes,2.34,
+SYN-1494,4,FL,carrier a ,Gummies,0.3,2025-08-30,Yes,30.89,Partial refund accepted.
+SYN-1495,3,CA,carrier a ,Chocolate,0.5,2025-07-01,Yes,13.46,
+SYN-1496,4,OH,Carrier A,Chocolate,1.0,2025-07-29,Yes,8.0,Partial refund accepted.
+SYN-1497,2,TN,CARRIER A ,Chocolate,0.7,2025-09-12,Yes,24.6,Photos received.
+SYN-1498,2,PA,CARRIER A ,Chocolate,0.5,2025-08-01,,54.86,
+SYN-1499,.,OK,CARRIER A,Chocolate,0.5,2025-07-19,Yes,46.3,
+SYN-1500,5,CA,CARRIER A ,Chocolate,0.7,2025-07-22,Yes,16.09,Waiting for photos.
+SYN-1501,6,MO,CARRIER B,Chocolate,1.0,2025-06-20,Yes,39.97,Waiting for photos.
+SYN-1502,6,NY,CARRIER B,Chocolate,0.7,2025-09-25,Yes,39.7,Partial refund accepted.
+SYN-1503,4,,carrier a ,Chocolate,0.4,2025-07-13,Yes,16.8,Partial refund accepted.
+SYN-1504,6,OK,CARRIER A,Gummies,0.3,2025-07-04,Yes,9.74,Partial refund accepted.
+SYN-1505,3,TX,Carrier A,Chocolate,0.5,2025-07-11,Yes,10.26,Waiting for photos.
+SYN-1506,1,VA,CARRIER A,Chocolate,0.3,2025-09-23,Yes,38.63,
+SYN-1507,2,VA ,Carrier A,Chocolate,1.0,2025-06-24,Yes,17.5,
+SYN-1508,2,OK,CARRIER A ,Chocolate,0.5,2025-09-03,,7.09,
+SYN-1509,2,IL,CARRIER A ,Chocolate,0.5,2025-08-14,Yes,3.99,Partial refund accepted.
+SYN-1510,3,CA,CARRIER A,Chocolate,0.3,2025-08-29,No,38.42,Photos received.
+SYN-1511,.,NV,carrier a ,Chocolate,0.5,2025-09-27,Yes,11.11,
+SYN-1512,5,MI,Carrier A,Chocolate,0.5,2025-08-31,Yes,24.47,Photos received.
+SYN-1513,4,AZ,Carrier A,Chocolate,0.3,2025-09-18,Yes,,Photos received.
+SYN-1514,2,MI,carrier a ,Chocolate,1.0,2025-06-28,Yes,5.6,Waiting for photos.
+SYN-1515,4,FL,CARRIER A ,Chocolate,0.3,2025-08-24,Yes,17.45,Photos received.
+SYN-1516,3,OH,Carrier A,Chocolate,0.4,2025-07-30,,15.59,Partial refund accepted.
+SYN-1517,1,WA,CARRIER A,Chocolate,0.3,2025-07-30,Yes,25.58,Waiting for photos.
+SYN-1518,3,CA,CARRIER A ,Chocolate,0.5,2025-09-09,Yes,55.44,Photos received.
+SYN-1519,3,AZ,CARRIER A ,Chocolate,0.7,2025-09-26,Yes,5.49,Photos received.
+SYN-1520,3,AL,Carrier A,Chocolate,1.0,2025-08-14,Yes,,Photos received.
+SYN-1521,5,SC,carrier a ,Chocolate,0.2,2025-07-25,Yes,45.99,Partial refund accepted.
+SYN-1522,4,MA,CARRIER A ,Gummies,1.0,2025-07-23,Yes,15.37,
+SYN-1523,4,GA,carrier a ,Chocolate,0.7,2025-07-18,Yes,16.06,Waiting for photos.
+SYN-1524,2,IN,Carrier A,Chocolate,0.3,2025-07-16,Yes,26.49,Photos received.
+SYN-1525,5,TX,CARRIER A ,Chocolate,0.3,2025-07-18,No,24.79,Partial refund accepted.
+SYN-1526,.,IL,CARR C,Chocolate,0.3,2025-06-24,Yes,30.7,
+SYN-1527,2,AZ,carrier c,Chocolate,1.0,2025-06-22,Yes,30.12,Photos received.
+SYN-1528,4,SC,CARRIER A,Chocolate,0.3,2025-08-23,Yes,7.51,
+SYN-1529,.,OK,Carrier A,Hard Candy,0.5,2025-07-22,Yes,44.31,Photos received.
+SYN-1530,3,VA,carrier a ,Chocolate,0.7,2025-09-15,Yes,51.94,Waiting for photos.
+SYN-1531,2,TN,Carrier A,Chocolate,1.0,2025-08-05,Yes,21.49,Partial refund accepted.
+SYN-1532,4,NC,carrier a ,Chocolate,0.5,2025-06-15,Yes,4.74,Photos received.
+SYN-1533,2,IL,carrier a ,Chocolate,0.7,2025-07-01,,16.39,Waiting for photos.
+SYN-1534,2,IL ,CARRIER A,Chocolate,0.3,2025-07-05,Yes,21.65,Photos received.
+SYN-1535,2,TX,carrier a ,Chocolate,1.0,2025-09-27,Yes,6.49,Photos received.
+SYN-1536,7,,carrier a ,Chocolate,0.3,2025-07-06,Yes,13.14,
+SYN-1537,3,CO,CARRIER A,Chocolate,0.3,2025-07-28,Yes,5.11,Photos received.
+SYN-1538,3,VA ,carrier a ,Chocolate,1.0,2025-09-16,Yes,31.39,Photos received.
+SYN-1539,3,SC,carrier a ,Chocolate,0.3,2025-09-27,Yes,21.1,Photos received.
+SYN-1540,5,GA,CARRIER C,Chocolate,0.3,2025-07-07,Yes,4.13,Photos received.
+SYN-1541,4,IL,carrier a ,Chocolate,0.5,2025-06-18,Yes,24.94,Partial refund accepted.
+SYN-1542,6,TX,Carrier A,Chocolate,0.3,2025-06-30,Yes,17.27,
+SYN-1543,.,,carrier c,Chocolate,0.3,2025-06-20,Yes,28.93,Photos received.
+SYN-1544,2,AZ,carrier a ,Chocolate,0.5,2025-07-04,Yes,12.78,Partial refund accepted.
+SYN-1545,4,FL,CARRIER A,Chocolate,0.7,2025-08-01,Yes,8.83,Waiting for photos.
+SYN-1546,3,TX,CARRIER A,Gummies,0.7,2025-09-11,Yes,9.08,Photos received.
+SYN-1547,5,PA,Carrier A,Chocolate,0.3,2025-07-30,Yes,11.2,Partial refund accepted.
+SYN-1548,5,NC,CARRIER A ,Chocolate,0.5,2025-08-06,Yes,18.48,Photos received.
+SYN-1549,3,GA ,CARRIER A,Chocolate,1.0,2025-07-05,Yes,20.76,Partial refund accepted.
+SYN-1550,7,FL,CARRIER A ,Chocolate,0.3,2025-08-25,Yes,15.31,Partial refund accepted.
+SYN-1551,4,IL,CARRIER A,Chocolate,0.3,2025-08-06,Yes,12.42,Partial refund accepted.
+SYN-1552,3,NC,Carrier A,Chocolate,0.2,2025-09-03,Yes,13.25,Photos received.
+SYN-1553,3,AZ,Carrier B ,Chocolate,0.5,2025-09-19,Yes,173.63,Waiting for photos.
+SYN-1554,1,NY,Carrier A,Chocolate,0.3,2025-07-15,Yes,9.08,Partial refund accepted.
+SYN-1555,5,,CARRIER A,Chocolate,0.7,2025-06-24,Yes,11.0,
+SYN-1556,2,OK,CARRIER A ,Chocolate,1.0,2025-07-07,Yes,250.0,Photos received.
+SYN-1557,3,TX,Carrier A,Chocolate,0.3,2025-07-22,Yes,26.55,Waiting for photos.
+SYN-1558,4,NC,CARRIER A ,Chocolate,0.5,2025-09-18,No,5.25,
+SYN-1559,2,FL,carrier a ,Chocolate,0.3,2025-07-17,Yes,38.8,Waiting for photos.
+SYN-1560,2,IL,carrier a ,Chocolate,0.2,2025-08-21,Yes,8.01,Waiting for photos.
+SYN-1561,4,CA ,Carrier A,Chocolate,0.7,2025-07-30,Yes,41.19,
+SYN-1562,2,CO,carrier a ,Chocolate,0.4,2025-07-03,Yes,15.03,
+SYN-1563,3,GA,CARRIER A ,Chocolate,1.0,2025-07-13,Yes,12.23,Partial refund accepted.
+SYN-1564,3,TN,CARRIER A ,Chocolate,0.5,2025-08-09,Yes,77.34,Partial refund accepted.
+SYN-1565,2,FL,CARRIER A ,Hard Candy,0.3,2025-08-11,Yes,30.26,Partial refund accepted.
+SYN-1566,2,TX,CARRIER A,Chocolate,0.4,2025-07-22,Yes,43.63,Waiting for photos.
+SYN-1567,5,GA,carrier a ,Chocolate,0.3,2025-07-07,Yes,26.88,
+SYN-1568,7,IL,Carrier A,Chocolate,1.0,2025-08-16,Yes,12.18,Photos received.
+SYN-1569,2,NC,CARRIER A ,Chocolate,0.5,2025-07-02,Yes,,Photos received.
+SYN-1570,7,KS,CARRIER A ,Chocolate,0.3,2025-09-16,Yes,53.96,Partial refund accepted.
+SYN-1571,4,VA,CARRIER A ,Chocolate,0.5,2025-07-04,Yes,20.52,
+SYN-1572,4,IN,CARRIER A,Chocolate,0.5,2025-06-26,Yes,91.97,
+SYN-1573,4,CA,Carrier A,Chocolate,0.7,2025-07-26,Yes,,Partial refund accepted.
+SYN-1574,4,MI,carrier a ,Chocolate,0.2,2025-07-28,Yes,,Waiting for photos.
+SYN-1575,5,NY,carrier a ,Chocolate,0.2,2025-07-27,Yes,22.79,Waiting for photos.
+SYN-1576,3,OH,Carrier B ,Chocolate,0.3,2025-07-22,Yes,20.56,Waiting for photos.
+SYN-1577,4,IN,CARRIER A,Chocolate,0.3,2025-10-06,Yes,5.89,Waiting for photos.
+SYN-1578,3,MO ,CARRIER A,Gummies,0.5,2025-07-26,Yes,16.76,Waiting for photos.
+SYN-1579,2,MA,carrier a ,Chocolate,0.3,2025-07-25,Yes,22.18,Photos received.
+SYN-1580,4,VA,Carrier A,Chocolate,0.4,2025-07-21,Yes,12.5,Waiting for photos.
+SYN-1581,1,TX,Carrier A,Chocolate,0.4,2025-06-21,Yes,24.63,
+SYN-1582,3,PA,CARRIER A ,Chocolate,0.3,2025-08-03,Yes,18.53,Partial refund accepted.
+SYN-1583,2,AZ,CARRIER A,Chocolate,1.0,2025-07-07,Yes,36.46,Photos received.
+SYN-1584,2,OK,CARRIER B,Chocolate,0.5,2025-08-08,Yes,33.01,Waiting for photos.
+SYN-1585,4,SC,Carrier A,Chocolate,0.3,2025-06-18,Yes,21.12,Waiting for photos.
+SYN-1586,4,TX,CARRIER A ,Chocolate,0.5,2025-09-29,No,5.31,Waiting for photos.
+SYN-1587,3,TX,CARRIER A ,Chocolate,0.3,2025-07-24,Yes,91.07,Partial refund accepted.
+SYN-1588,2,TX,carrier a ,Chocolate,1.0,2025-09-08,Yes,,
+SYN-1589,.,AZ,Carrier A,Chocolate,0.5,2025-07-25,Yes,,Partial refund accepted.
+SYN-1590,3,TX,CARRIER B,Gummies,0.5,2025-06-20,Yes,13.35,Waiting for photos.
+SYN-1591,4,VA,CARRIER A,Chocolate,1.0,2025-08-28,Yes,11.71,Photos received.
+SYN-1592,4,NY,CARRIER A ,Chocolate,1.0,2025-08-09,Yes,72.94,Photos received.
+SYN-1593,3,NV,CARRIER A,Chocolate,1.0,2025-08-23,Yes,63.27,
+SYN-1594,3,CA,Carrier A,Chocolate,0.3,2025-07-21,Yes,27.11,Partial refund accepted.
+SYN-1595,7,,Carrier A,Chocolate,0.3,2025-08-08,No,,Partial refund accepted.
+SYN-1596,4,TX,carrier a ,Hard Candy,0.5,2025-09-02,Yes,,Partial refund accepted.
+SYN-1597,3,,CARRIER A ,Chocolate,0.5,2025-08-07,Yes,19.42,
+SYN-1598,3,FL,carrier c,Chocolate,0.5,2025-07-15,Yes,15.31,
+SYN-1599,1,TX,CARRIER A ,Chocolate,0.7,2025-08-10,Yes,24.64,Photos received.
+SYN-1600,6,FL,carrier a ,Chocolate,0.3,2025-08-11,Yes,,Waiting for photos.
+SYN-1601,3,SC,Carrier A,Chocolate,0.3,2025-09-22,Yes,22.81,Photos received.
+SYN-1602,2,TX,CARRIER B,Chocolate,0.5,2025-07-17,Yes,21.84,Waiting for photos.
+SYN-1603,.,TN,CARRIER A,Chocolate,0.3,2025-07-21,Yes,31.27,Partial refund accepted.
+SYN-1604,4,NJ,carrier c,Chocolate,0.5,2025-08-27,Yes,10.41,Photos received.
+SYN-1605,2,NJ,CARRIER A,Chocolate,0.7,2025-07-27,Yes,34.44,Photos received.
+SYN-1606,2,FL,Carrier A,Chocolate,0.5,2025-08-18,Yes,8.04,Waiting for photos.
+SYN-1607,1,TX,Carrier A,Chocolate,0.7,2025-07-23,Yes,10.86,Partial refund accepted.
+SYN-1608,4,NC,Carrier A,Chocolate,0.5,2025-07-06,Yes,11.29,Partial refund accepted.
+SYN-1609,2,FL,CARRIER A ,Chocolate,0.7,2025-08-18,Yes,6.93,Photos received.
+SYN-1610,6,PA,CARRIER A ,Chocolate,0.3,2025-06-28,Yes,45.34,Photos received.
+SYN-1611,6,CA,carrier a ,Chocolate,0.7,2025-07-04,No,7.6,
+SYN-1612,4,NC,CARRIER C,Chocolate,0.7,2025-08-07,,9.69,Partial refund accepted.
+SYN-1613,4,TX,carrier c,Chocolate,0.3,2025-08-19,Yes,56.25,
+SYN-1614,3,NY,carrier a ,Gummies,0.5,2025-09-08,Yes,10.88,
+SYN-1615,2,FL,carrier a ,Chocolate,1.0,2025-07-10,Yes,15.34,
+SYN-1616,4,,Carrier A,Chocolate,0.3,2025-06-26,Yes,7.31,Partial refund accepted.
+SYN-1617,2,TX,Carrier A,Chocolate,0.7,2025-09-21,Yes,38.46,
+SYN-1618,2,NM,Carrier A,Chocolate,1.0,2025-07-01,Yes,38.94,Waiting for photos.
+SYN-1619,3,PA,carrier a ,Chocolate,1.0,2025-07-04,Yes,35.34,
+SYN-1620,1,FL,CARRIER A,Chocolate,0.4,2025-07-11,Yes,29.48,Waiting for photos.
+SYN-1621,3,TX,carrier a ,Chocolate,0.5,2025-07-29,Yes,,Waiting for photos.
+SYN-1622,4,CA,CARRIER C,Chocolate,1.0,2025-09-06,Yes,11.34,Partial refund accepted.
+SYN-1623,5,TX,carrier a ,Chocolate,0.5,2025-08-20,Yes,8.73,Waiting for photos.
+SYN-1624,4,FL,CARR C,Chocolate,0.3,2025-08-14,Yes,58.03,Photos received.
+SYN-1625,5,WA,carrier a ,Chocolate,0.2,2025-07-02,Yes,36.17,
+SYN-1626,3,OH,Carrier A,Hard Candy,0.7,2025-07-16,,9.74,Waiting for photos.
+SYN-1627,5,FL,CARRIER A ,Chocolate,0.4,2025-07-25,Yes,18.84,
+SYN-1628,4,NY,carrier a ,Chocolate,0.3,2025-06-30,Yes,13.87,Waiting for photos.
+SYN-1629,2,FL,Carrier A,Chocolate,0.3,2025-07-10,Yes,6.58,
+SYN-1630,6,NM,CARRIER B,Chocolate,0.7,2025-07-13,Yes,21.33,Partial refund accepted.
+SYN-1631,3,TX,CARRIER A,Chocolate,0.5,2025-06-28,Yes,12.5,
+SYN-1632,1,VA,CARRIER A,Chocolate,1.0,2025-07-31,Yes,7.71,
+SYN-1633,2,MI,CARRIER A,Chocolate,0.7,2025-08-14,Yes,4.8,Photos received.
+SYN-1634,.,TX,carrier a ,Chocolate,1.0,2025-06-21,Yes,4.45,
+SYN-1635,3,FL,carrier a ,Gummies,1.0,2025-07-25,Yes,13.01,
+SYN-1636,4,GA,CARRIER A ,Chocolate,0.3,2025-08-23,,16.83,Partial refund accepted.
+SYN-1637,5,WA,carrier a ,Chocolate,0.5,2025-08-19,Yes,8.27,
+SYN-1638,3,,CARRIER A ,Chocolate,0.2,2025-08-27,Yes,32.64,
+SYN-1639,4,MO,carrier a ,Chocolate,1.0,2025-07-23,Yes,17.13,Partial refund accepted.
+SYN-1640,3,MI,Carrier A,Chocolate,0.3,2025-08-28,,30.54,Waiting for photos.
+SYN-1641,5,NV,carrier a ,Chocolate,0.5,2025-07-08,Yes,15.42,
+SYN-1642,2,AZ,Carrier A,Chocolate,1.0,2025-07-16,Yes,8.95,Photos received.
+SYN-1643,2,IL,Carrier A,Chocolate,0.3,2025-07-03,Yes,20.14,Partial refund accepted.
+SYN-1644,4,VA,Carrier A,Chocolate,1.0,2025-07-24,Yes,5.83,
+SYN-1645,4,FL,carrier a ,Chocolate,0.2,2025-07-18,Yes,29.53,
+SYN-1646,5,CO,Carrier A,Chocolate,0.4,2025-07-08,Yes,7.82,Waiting for photos.
+SYN-1647,4,TX,carrier a ,Chocolate,0.5,2025-08-19,Yes,41.53,Photos received.
+SYN-1648,5,FL,CARRIER A ,Chocolate,0.3,2025-07-13,Yes,13.4,Waiting for photos.
+SYN-1649,3,SC,Carrier A,Chocolate,0.5,2025-07-10,Yes,47.29,
+SYN-1650,1,CA,Carrier A,Chocolate,1.0,2025-06-28,Yes,6.62,Partial refund accepted.
+SYN-1651,2,TX,Carrier B ,Chocolate,0.3,2025-07-22,Yes,9.88,Photos received.
+SYN-1652,1,FL,CARRIER A ,Chocolate,0.5,2025-07-12,Yes,25.61,Photos received.
+SYN-1653,3,IL,CARRIER A,Chocolate,1.0,2025-07-17,,52.11,Waiting for photos.
+SYN-1654,3,CO ,CARRIER A ,Chocolate,0.7,2025-07-07,Yes,81.45,Waiting for photos.
+SYN-1655,3,TX,Carrier A,Chocolate,0.2,2025-08-21,Yes,18.86,Photos received.
+SYN-1656,4,TX,CARRIER A ,Chocolate,1.0,2025-09-15,,95.01,Waiting for photos.
+SYN-1657,3,NC,CARRIER A ,Chocolate,0.2,2025-07-26,Yes,14.0,Waiting for photos.
+SYN-1658,4,AL,CARRIER A ,Chocolate,0.5,2025-08-08,Yes,48.86,Photos received.
+SYN-1659,4,CA,CARRIER A ,Chocolate,0.5,2025-09-03,Yes,7.78,Photos received.
+SYN-1660,3,AL,CARRIER A,Chocolate,0.7,2025-10-11,Yes,26.53,Partial refund accepted.
+SYN-1661,3,MA,Carrier B ,Chocolate,0.3,2025-08-05,Yes,2.21,
+SYN-1662,4,,CARRIER A,Chocolate,0.3,2025-09-07,Yes,6.62,
+SYN-1663,4,SC,Carrier A,Chocolate,0.7,2025-09-10,Yes,27.66,Partial refund accepted.
+SYN-1664,3,PA,CARRIER A,Chocolate,0.3,2025-08-24,Yes,5.58,Photos received.
+SYN-1665,3,IL,carrier a ,Chocolate,0.5,2025-07-24,Yes,26.69,
+SYN-1666,4,,carrier a ,Chocolate,0.7,2025-06-23,Yes,41.09,
+SYN-1667,4,SC,CARR C,Chocolate,0.5,2025-06-11,Yes,11.57,Waiting for photos.
+SYN-1668,2,SC,CARRIER A,Chocolate,0.3,2025-07-25,Yes,7.6,Waiting for photos.
+SYN-1669,3,NJ,Carrier A,Chocolate,0.3,2025-07-26,Yes,11.86,Photos received.
+SYN-1670,5,IN,carrier a ,Chocolate,1.0,2025-07-20,Yes,7.62,
+SYN-1671,1,AZ,CARRIER A ,Chocolate,0.4,2025-08-01,Yes,16.59,
+SYN-1672,5,SC,CARR C,Chocolate,0.2,2025-07-31,,19.92,Photos received.
+SYN-1673,2,WA,CARRIER A,Chocolate,0.3,2025-08-30,,13.8,Partial refund accepted.
+SYN-1674,4,,Carrier A,Chocolate,0.3,2025-06-26,Yes,82.02,Waiting for photos.
+SYN-1675,3,TX,CARRIER A,Chocolate,1.0,2025-07-07,Yes,9.51,Partial refund accepted.
+SYN-1676,1,GA,CARRIER B,Chocolate,0.3,2025-08-24,Yes,63.58,Photos received.
+SYN-1677,6,CO,CARRIER A,Chocolate,0.2,2025-08-31,,7.12,
+SYN-1678,3,CA,CARRIER A ,Chocolate,0.5,2025-10-06,Yes,19.4,Waiting for photos.
+SYN-1679,7,PA,CARRIER A,Chocolate,0.2,2025-09-04,Yes,52.71,
+SYN-1680,3,TX,CARRIER A,Chocolate,0.3,2025-09-07,Yes,50.31,Photos received.
+SYN-1681,5,CA,CARRIER A ,Chocolate,1.0,2025-07-13,Yes,12.45,Partial refund accepted.
+SYN-1682,6,TN,Carrier A,Chocolate,0.7,2025-07-19,Yes,29.95,Waiting for photos.
+SYN-1683,4,TX,Carrier A,Chocolate,0.2,2025-07-10,Yes,26.55,
+SYN-1684,2,MA,carrier a ,Chocolate,0.4,2025-08-05,Yes,11.18,Partial refund accepted.
+SYN-1685,4,TX,Carrier A,Chocolate,0.3,2025-09-17,Yes,31.64,Partial refund accepted.
+SYN-1686,4,OK,carrier a ,Chocolate,0.3,2025-07-15,Yes,97.15,Photos received.
+SYN-1687,6,FL,carrier c,Chocolate,0.5,2025-07-31,Yes,,Partial refund accepted.
+SYN-1688,3,IN,Carrier A,Chocolate,0.5,2025-07-12,,30.26,Photos received.
+SYN-1689,3,OH,Carrier A,Chocolate,0.7,2025-07-02,Yes,33.28,Waiting for photos.
+SYN-1690,2,TX,CARRIER A,Chocolate,1.0,2025-07-04,Yes,4.88,Photos received.
+SYN-1691,4,TX,CARRIER B,Chocolate,0.3,2025-06-19,Yes,27.5,Photos received.
+SYN-1692,7,TX,carrier a ,Chocolate,1.0,2025-09-19,Yes,7.28,Partial refund accepted.
+SYN-1693,1,OH,CARRIER A,Chocolate,0.5,2025-07-19,Yes,10.69,Photos received.
+SYN-1694,4,SC,CARRIER B,Chocolate,0.3,2025-08-29,Yes,127.2,Partial refund accepted.
+SYN-1695,6,,carrier a ,Chocolate,1.0,2025-08-12,Yes,14.47,
+SYN-1696,2,NC,Carrier A,Chocolate,0.2,2025-07-04,Yes,9.34,Photos received.
+SYN-1697,2,OH,CARRIER A,Chocolate,0.5,2025-07-02,Yes,51.28,Partial refund accepted.
+SYN-1698,4,IL ,carrier a ,Chocolate,0.7,2025-08-27,Yes,7.75,Waiting for photos.
+SYN-1699,4,PA,CARRIER A ,Chocolate,0.3,2025-07-10,Yes,12.15,Waiting for photos.
+SYN-1700,2,,CARRIER A,Chocolate,1.0,2025-09-11,Yes,55.93,Partial refund accepted.
+SYN-1701,5,VA,CARRIER A,Chocolate,0.3,2025-06-29,Yes,18.89,Partial refund accepted.
+SYN-1702,4,IN,Carrier A,Chocolate,1.0,2025-08-11,Yes,4.46,Partial refund accepted.
+SYN-1703,6,CA,carrier a ,Chocolate,0.2,2025-08-27,Yes,29.65,Photos received.
+SYN-1704,5,TX ,CARRIER A,Chocolate,0.3,2025-07-07,,12.72,Partial refund accepted.
+SYN-1705,5,TX,CARRIER A ,Chocolate,0.3,2025-07-10,Yes,72.67,Waiting for photos.
+SYN-1706,4,NY ,Carrier A,Chocolate,1.0,2025-09-23,Yes,10.53,Waiting for photos.
+SYN-1707,2,CA,CARRIER A,Chocolate,0.3,2025-07-10,Yes,46.81,
+SYN-1708,4,LA,CARRIER A ,Chocolate,1.0,2025-07-21,Yes,89.85,Photos received.
+SYN-1709,2,TN,CARRIER A,Chocolate,0.3,2025-07-21,Yes,8.45,Waiting for photos.
+SYN-1710,4,IL,CARRIER C,Chocolate,0.5,2025-07-09,Yes,15.27,Waiting for photos.
+SYN-1711,2,SC,CARRIER A ,Chocolate,0.3,2025-08-22,Yes,25.78,Photos received.
+SYN-1712,4,FL,carrier a ,Chocolate,0.3,2025-08-22,,8.4,
+SYN-1713,2,SC,Carrier B ,Chocolate,1.0,2025-07-17,Yes,23.18,Waiting for photos.
+SYN-1714,3,TX,carrier a ,Chocolate,0.4,2025-08-30,Yes,14.84,Partial refund accepted.
+SYN-1715,2,TN,carrier a ,Chocolate,0.5,2025-07-06,Yes,14.58,Waiting for photos.
+SYN-1716,4,LA,carrier a ,Chocolate,0.5,2025-06-06,Yes,18.99,
+SYN-1717,5,,CARRIER A,Chocolate,0.5,2025-08-02,Yes,19.38,Partial refund accepted.
+SYN-1718,2,CO ,carrier a ,Chocolate,0.5,2025-10-06,Yes,21.06,Waiting for photos.
+SYN-1719,5,GA,CARRIER C,Chocolate,1.0,2025-06-16,Yes,10.6,
+SYN-1720,5,NV,CARRIER A ,Chocolate,0.5,2025-07-05,Yes,11.03,
+SYN-1721,3,NY,carrier a ,Chocolate,0.5,2025-07-28,Yes,16.33,Partial refund accepted.
+SYN-1722,4,TN,CARRIER A,Chocolate,0.5,2025-08-26,,17.46,Photos received.
+SYN-1723,3,TX,CARR C,Chocolate,0.5,2025-06-24,Yes,12.24,Partial refund accepted.
+SYN-1724,2,FL,Carrier A,Chocolate,0.4,2025-07-19,Yes,24.33,Partial refund accepted.
+SYN-1725,4,NY,Carrier A,Chocolate,0.5,2025-08-19,Yes,3.55,Waiting for photos.
+SYN-1726,2,TX,CARRIER A ,Chocolate,0.4,2025-07-17,Yes,9.42,Photos received.
+SYN-1727,5,NJ,CARRIER A ,Chocolate,0.7,2025-07-04,Yes,14.13,Partial refund accepted.
+SYN-1728,6,NV,CARRIER A ,Chocolate,1.0,2025-07-04,Yes,8.41,
+SYN-1729,5,OK,carrier a ,Chocolate,1.0,2025-07-20,Yes,78.75,Waiting for photos.
+SYN-1730,4,TX,CARRIER A ,Chocolate,1.0,2025-07-25,Yes,18.49,Waiting for photos.
+SYN-1731,4,LA,CARRIER A,Chocolate,0.5,2025-09-03,Yes,21.31,Photos received.
+SYN-1732,9,TX,carrier a ,Chocolate,0.7,2025-08-08,Yes,11.76,Partial refund accepted.
+SYN-1733,2,AZ,Carrier A,Chocolate,0.3,2025-08-13,Yes,17.92,
+SYN-1734,2,,Carrier A,Chocolate,0.5,2025-09-30,Yes,6.09,
+SYN-1735,4,TX,CARRIER A,Chocolate,0.3,2025-07-20,Yes,15.6,Waiting for photos.
+SYN-1736,3,TX,CARRIER A,Chocolate,0.2,2025-07-19,Yes,7.82,Photos received.
+SYN-1737,3,TX,Carrier A,Chocolate,1.0,2025-09-13,Yes,14.16,Waiting for photos.
+SYN-1738,1,IL,CARRIER A ,Chocolate,1.0,2025-07-08,Yes,1.81,
+SYN-1739,4,SC,carrier a ,Chocolate,0.5,2025-08-17,Yes,6.59,Photos received.
+SYN-1740,3,TX,Carrier A,Chocolate,0.3,2025-08-20,Yes,67.87,Photos received.
+SYN-1741,2,TX,Carrier A,Chocolate,0.5,2025-06-25,Yes,38.37,
+SYN-1742,2,,carrier a ,Chocolate,0.4,2025-07-24,Yes,59.57,Partial refund accepted.
+SYN-1743,3,FL,CARRIER A,Chocolate,1.0,2025-07-05,Yes,63.37,Photos received.
+SYN-1744,5,VA,carrier a ,Chocolate,1.0,2025-07-03,Yes,33.3,Photos received.
+SYN-1745,3,AL,carrier a ,Chocolate,0.3,2025-07-24,Yes,12.09,Waiting for photos.
+SYN-1746,4,MI,CARRIER A,Chocolate,0.3,2025-07-11,No,7.15,Partial refund accepted.
+SYN-1747,4,WA,carrier a ,Chocolate,0.3,2025-08-24,Yes,51.01,
+SYN-1748,.,IL,carrier a ,Chocolate,0.2,2025-09-10,Yes,19.26,
+SYN-1749,5,NV,carrier a ,Chocolate,0.3,2025-08-25,Yes,171.51,Waiting for photos.
+SYN-1750,4,FL,Carrier A,Chocolate,0.2,2025-07-10,Yes,13.08,Waiting for photos.
+SYN-1751,4,TX,carrier a ,Chocolate,0.3,2025-07-10,Yes,107.3,
+SYN-1752,1,MO,CARRIER A ,Chocolate,0.3,2025-07-09,Yes,15.78,
+SYN-1753,1,TX,CARRIER A,Chocolate,0.3,2025-06-29,Yes,,Photos received.
+SYN-1754,9,MA ,carrier a ,Chocolate,0.7,2025-09-18,Yes,83.68,Partial refund accepted.
+SYN-1755,5,PA,carrier a ,Chocolate,0.3,2025-07-19,Yes,,Partial refund accepted.
+SYN-1756,6,AL,Carrier A,Chocolate,1.0,2025-07-07,Yes,11.75,Photos received.
+SYN-1757,6,CA,Carrier B ,Chocolate,0.3,2025-08-31,Yes,7.17,
+SYN-1758,1,AZ,CARRIER A ,Chocolate,0.3,2025-07-19,Yes,6.01,Waiting for photos.
+SYN-1759,5,NJ,Carrier A,Chocolate,0.2,2025-06-15,Yes,33.13,Partial refund accepted.
+SYN-1760,3,FL,carrier a ,Chocolate,0.7,2025-07-01,Yes,15.23,Waiting for photos.
+SYN-1761,5,IL,CARRIER A,Chocolate,0.3,2025-08-08,Yes,19.05,Partial refund accepted.
+SYN-1762,1,MO,CARRIER A ,Hard Candy,0.5,2025-08-23,Yes,29.98,
+SYN-1763,3,NM,carrier a ,Chocolate,0.3,2025-07-05,Yes,3.42,Waiting for photos.
+SYN-1764,4,NJ,CARRIER B,Chocolate,1.0,2025-09-12,Yes,,Waiting for photos.
+SYN-1765,5,TX,carrier a ,Chocolate,0.3,2025-09-01,Yes,13.27,
+SYN-1766,4,AZ,Carrier A,Chocolate,0.4,2025-09-01,Yes,29.35,
+SYN-1767,3,OH,Carrier A,Hard Candy,1.0,2025-07-07,Yes,31.77,
+SYN-1768,3,TX,carrier a ,Chocolate,0.3,2025-06-18,Yes,62.41,
+SYN-1769,7,NC,CARRIER A ,Chocolate,0.3,2025-09-03,No,16.54,Partial refund accepted.
+SYN-1770,3,CA,CARRIER A,Chocolate,1.0,2025-07-12,Yes,,
+SYN-1771,3,TX ,CARRIER A ,Chocolate,0.3,2025-08-06,Yes,19.13,
+SYN-1772,4,IL,CARRIER A ,Chocolate,0.2,2025-08-20,Yes,21.77,Photos received.
+SYN-1773,3,,CARRIER A,Chocolate,0.4,2025-06-28,Yes,7.16,Partial refund accepted.
+SYN-1774,4,,CARRIER A,Chocolate,0.2,2025-08-23,Yes,20.75,Photos received.
+SYN-1775,3,FL,carrier a ,Chocolate,1.0,2025-09-16,Yes,13.13,Partial refund accepted.
+SYN-1776,5,VA,CARRIER A ,Chocolate,0.5,2025-08-17,Yes,5.43,Waiting for photos.
+SYN-1777,6,,Carrier A,Chocolate,0.5,2025-07-22,Yes,33.26,Waiting for photos.
+SYN-1778,6,MA,carrier a ,Chocolate,0.3,2025-09-05,Yes,10.94,
+SYN-1779,4,,CARRIER A ,Chocolate,0.5,2025-07-29,Yes,12.61,Partial refund accepted.
+SYN-1780,3,IL,Carrier A,Chocolate,0.5,2025-08-18,Yes,11.99,Partial refund accepted.
+SYN-1781,4,,CARRIER B,Chocolate,0.2,2025-08-28,Yes,55.25,
+SYN-1782,5,FL,CARRIER A ,Chocolate,1.0,2025-08-19,Yes,17.52,Photos received.
+SYN-1783,4,AZ,Carrier A,Chocolate,0.5,2025-07-11,Yes,19.52,Partial refund accepted.
+SYN-1784,4,CO,carrier c,Chocolate,0.7,2025-06-27,Yes,12.22,Photos received.
+SYN-1785,4,OK,Carrier A,Gummies,0.3,2025-07-08,Yes,27.57,Photos received.
+SYN-1786,4,CA ,carrier a ,Chocolate,0.3,2025-07-27,Yes,61.21,Photos received.
+SYN-1787,4,TX,Carrier A,Chocolate,0.7,2025-07-27,Yes,32.56,Partial refund accepted.
+SYN-1788,2,,carrier a ,Chocolate,0.7,2025-08-03,Yes,33.72,Partial refund accepted.
+SYN-1789,3,NY,carrier a ,Chocolate,0.3,2025-07-19,Yes,31.36,
+SYN-1790,4,FL,CARRIER A,Chocolate,0.2,2025-08-23,,5.25,Waiting for photos.
+SYN-1791,1,NJ ,Carrier A,Chocolate,1.0,2025-09-11,Yes,8.26,
+SYN-1792,5,IL,CARRIER A,Chocolate,0.3,2025-07-08,Yes,15.11,Waiting for photos.
+SYN-1793,4,MO,CARRIER A,Chocolate,0.3,2025-08-18,Yes,9.46,Photos received.
+SYN-1794,2,,CARRIER A ,Chocolate,0.5,2025-08-11,Yes,6.97,Photos received.
+SYN-1795,5,NC,carrier a ,Chocolate,0.2,2025-07-28,Yes,3.37,Photos received.
+SYN-1796,4,FL,carrier a ,Chocolate,0.2,2025-07-04,Yes,5.41,Waiting for photos.
+SYN-1797,4,,CARRIER A ,Gummies,0.2,2025-08-24,Yes,14.43,Waiting for photos.
+SYN-1798,3,,carrier a ,Gummies,1.0,2025-09-22,Yes,17.07,
+SYN-1799,.,MI,CARRIER A ,Gummies,0.3,2025-08-16,Yes,8.9,Photos received.
+SYN-1800,3,SC,carrier a ,Chocolate,0.5,2025-09-12,Yes,19.51,Waiting for photos.
+SYN-1801,4,NJ,Carrier A,Chocolate,1.0,2025-09-30,Yes,12.3,
+SYN-1802,1,TX,Carrier B ,Chocolate,0.5,2025-07-16,Yes,48.5,Photos received.
+SYN-1803,.,FL,Carrier A,Chocolate,0.5,2025-08-08,Yes,,Waiting for photos.
+SYN-1804,4,AZ,CARRIER A ,Chocolate,0.5,2025-07-25,Yes,34.01,Photos received.
+SYN-1805,4,OH,CARRIER A,Chocolate,0.3,2025-10-01,Yes,21.82,Partial refund accepted.
+SYN-1806,3,,CARRIER A ,Chocolate,0.5,2025-06-24,Yes,5.15,
+SYN-1807,5,CA,CARRIER A ,Chocolate,1.0,2025-07-20,Yes,16.75,Photos received.
+SYN-1808,4,WA ,CARRIER A,Chocolate,0.7,2025-09-05,Yes,5.98,Waiting for photos.
+SYN-1809,3,FL,CARR C,Chocolate,0.4,2025-07-11,Yes,16.49,Waiting for photos.
+SYN-1810,7,CA,CARRIER A ,Chocolate,0.3,2025-08-23,Yes,9.29,
+SYN-1811,4,TX,carrier a ,Chocolate,1.0,2025-07-18,Yes,25.63,
+SYN-1812,.,NJ,carrier c,Chocolate,0.3,2025-09-29,Yes,5.43,Photos received.
+SYN-1813,7,TX,CARRIER A ,Gummies,1.0,2025-09-06,Yes,18.42,Waiting for photos.
+SYN-1814,6,FL,carrier a ,Chocolate,0.3,2025-07-12,Yes,30.42,
+SYN-1815,4,MI,CARRIER B,Chocolate,0.7,2025-08-21,Yes,41.13,Photos received.
+SYN-1816,4,,CARRIER B,Chocolate,1.0,2025-07-15,Yes,9.14,
+SYN-1817,2,TX,carrier a ,Chocolate,0.5,2025-08-05,Yes,18.47,Photos received.
+SYN-1818,4,TX,Carrier A,Chocolate,0.3,2025-08-09,Yes,,Partial refund accepted.
+SYN-1819,5,IL,CARRIER A,Chocolate,1.0,2025-08-29,Yes,73.14,
+SYN-1820,4,CA,CARRIER A ,Chocolate,0.3,2025-06-13,Yes,4.79,Partial refund accepted.
+SYN-1821,5,FL,CARRIER A,Chocolate,0.3,2025-07-06,Yes,8.0,
+SYN-1822,2,OH,CARRIER A,Chocolate,0.5,2025-08-15,Yes,226.79,Partial refund accepted.
+SYN-1823,.,FL,Carrier A,Chocolate,0.4,2025-08-01,Yes,14.21,Photos received.
+SYN-1824,4,OH,CARRIER A,Chocolate,0.5,2025-07-26,Yes,3.31,Partial refund accepted.
+SYN-1825,3,GA,Carrier A,Chocolate,0.3,2025-06-19,Yes,10.76,Partial refund accepted.
+SYN-1826,2,FL,CARRIER A ,Chocolate,0.4,2025-07-15,Yes,1.5,Waiting for photos.
+SYN-1827,2,TX,CARRIER A ,Chocolate,1.0,2025-09-03,Yes,22.57,Photos received.
+SYN-1828,5,FL,CARRIER A ,Chocolate,0.2,2025-06-14,Yes,37.67,Partial refund accepted.
+SYN-1829,3,TX,Carrier A,Chocolate,0.5,2025-07-19,Yes,8.0,Partial refund accepted.
+SYN-1830,2,,CARRIER A,Hard Candy,0.5,2025-09-18,Yes,11.9,
+SYN-1831,1,OK,CARRIER A ,Hard Candy,1.0,2025-06-18,Yes,41.73,Photos received.
+SYN-1832,3,NV,Carrier A,Chocolate,0.5,2025-08-19,Yes,3.76,Partial refund accepted.
+SYN-1833,2,CA,carrier a ,Chocolate,1.0,2025-07-09,Yes,5.53,
+SYN-1834,4,NY,CARRIER A,Chocolate,0.3,2025-09-03,Yes,14.8,
+SYN-1835,5,NY,carrier a ,Chocolate,0.3,2025-08-19,Yes,9.23,
+SYN-1836,2,NV,carrier a ,Chocolate,1.0,2025-09-06,Yes,13.95,Photos received.
+SYN-1837,4,FL,CARR C,Chocolate,1.0,2025-07-06,Yes,5.83,Photos received.
+SYN-1838,2,CA,CARRIER A,Chocolate,0.5,2025-07-29,Yes,22.04,Partial refund accepted.
+SYN-1839,3,CA,Carrier A,Chocolate,0.5,2025-08-22,Yes,,Waiting for photos.
+SYN-1840,5,TX,CARRIER A ,Chocolate,0.5,2025-07-08,Yes,29.79,Photos received.
+SYN-1841,4,CA,Carrier A,Chocolate,0.2,2025-07-07,Yes,21.77,Photos received.
+SYN-1842,5,WA,carrier a ,Chocolate,1.0,2025-06-14,Yes,21.89,Photos received.
+SYN-1843,2,,CARRIER A,Chocolate,1.0,2025-09-21,Yes,4.94,Waiting for photos.
+SYN-1844,3,TX,carrier a ,Chocolate,0.5,2025-08-15,Yes,28.31,Partial refund accepted.
+SYN-1845,3,,CARRIER B,Chocolate,0.3,2025-08-07,Yes,13.49,Photos received.
+SYN-1846,3,GA,carrier a ,Chocolate,0.3,2025-08-18,Yes,15.64,Photos received.
+SYN-1847,9,,CARRIER A ,Chocolate,0.3,2025-07-29,Yes,46.69,Waiting for photos.
+SYN-1848,2,NY,carrier a ,Chocolate,0.7,2025-07-25,Yes,9.51,
+SYN-1849,5,TX,carrier c,Chocolate,0.5,2025-07-23,Yes,61.32,
+SYN-1850,5,CO,CARRIER A,Chocolate,0.3,2025-08-08,No,66.69,Waiting for photos.
+SYN-1851,.,,Carrier A,Chocolate,0.5,2025-07-05,Yes,35.78,Photos received.
+SYN-1852,3,MO,CARRIER A ,Chocolate,1.0,2025-09-07,Yes,7.52,Photos received.
+SYN-1853,4,MO,CARRIER B,Chocolate,0.3,2025-08-26,Yes,2.54,
+SYN-1854,3,IL,carrier a ,Chocolate,0.5,2025-07-15,Yes,47.99,Waiting for photos.
+SYN-1855,5,CA,Carrier A,Chocolate,0.5,2025-08-02,,20.09,Photos received.
+SYN-1856,3,TX,Carrier A,Chocolate,0.3,2025-06-29,Yes,9.29,
+SYN-1857,6,NY,carrier a ,Chocolate,0.5,2025-09-26,Yes,,Partial refund accepted.
+SYN-1858,4,TX,Carrier A,Chocolate,0.5,2025-09-09,Yes,8.37,Waiting for photos.
+SYN-1859,4,NV,Carrier A,Chocolate,0.3,2025-09-13,Yes,12.41,Waiting for photos.
+SYN-1860,4,GA,carrier a ,Chocolate,0.3,2025-07-14,Yes,29.15,Photos received.
+SYN-1861,4,GA,CARRIER A ,Chocolate,1.0,2025-07-02,Yes,6.67,
+SYN-1862,6,CA,CARRIER A ,Chocolate,0.3,2025-07-06,Yes,16.47,
+SYN-1863,2,KS,carrier a ,Chocolate,0.5,2025-06-24,Yes,48.44,Photos received.
+SYN-1864,7,FL,carrier a ,Chocolate,0.5,2025-06-27,Yes,21.98,Partial refund accepted.
+SYN-1865,5,TX,CARRIER B,Chocolate,1.0,2025-06-21,Yes,55.85,Photos received.
+SYN-1866,5,FL,Carrier A,Chocolate,0.7,2025-10-03,Yes,50.41,Waiting for photos.
+SYN-1867,3,MO,Carrier A,Chocolate,1.0,2025-06-22,Yes,18.3,Partial refund accepted.
+SYN-1868,5,IN,Carrier A,Chocolate,0.5,2025-06-28,Yes,2.22,Photos received.
+SYN-1869,.,,carrier a ,Chocolate,0.4,2025-08-29,Yes,,Partial refund accepted.
+SYN-1870,5,OK,carrier a ,Chocolate,0.3,2025-08-02,Yes,36.13,Photos received.
+SYN-1871,2,CA,CARRIER A,Chocolate,0.3,2025-08-22,Yes,4.5,Partial refund accepted.
+SYN-1872,3,MO,CARR C,Chocolate,0.4,2025-08-07,Yes,13.54,Waiting for photos.
+SYN-1873,3,,Carrier A,Chocolate,0.3,2025-09-06,Yes,24.65,Photos received.
+SYN-1874,3,AZ,CARRIER A ,Chocolate,0.4,2025-08-08,Yes,68.21,
+SYN-1875,3,MO,CARRIER B,Chocolate,0.3,2025-07-28,Yes,10.83,Waiting for photos.
+SYN-1876,5,IL,CARRIER A ,Chocolate,0.2,2025-08-15,Yes,10.18,
+SYN-1877,2,FL,carrier a ,Chocolate,0.3,2025-07-23,Yes,17.34,
+SYN-1878,4,NV,carrier a ,Chocolate,0.7,2025-07-15,Yes,24.92,Photos received.
+SYN-1879,2,KS,CARRIER A,Chocolate,0.5,2025-07-24,Yes,15.82,Partial refund accepted.
+SYN-1880,5,NC,Carrier A,Chocolate,1.0,2025-07-02,Yes,46.73,Waiting for photos.
+SYN-1881,5,TN,CARRIER A ,Chocolate,0.5,2025-08-25,Yes,8.85,Partial refund accepted.
+SYN-1882,3,MI,Carrier B ,Chocolate,1.0,2025-07-09,Yes,20.25,Partial refund accepted.
+SYN-1883,4,FL,CARRIER A,Chocolate,0.7,2025-06-30,Yes,27.13,Waiting for photos.
+SYN-1884,6,WA,CARRIER A,Chocolate,0.2,2025-07-08,Yes,,Partial refund accepted.
+SYN-1885,5,CA,carrier a ,Chocolate,1.0,2025-08-31,Yes,,Waiting for photos.
+SYN-1886,3,MI,carrier a ,Chocolate,0.2,2025-07-14,Yes,20.78,
+SYN-1887,3,TX,CARRIER A ,Chocolate,0.5,2025-08-12,Yes,36.96,
+SYN-1888,5,CA,CARRIER A ,Chocolate,0.7,2025-09-02,Yes,21.64,Photos received.
+SYN-1889,3,IL,carrier a ,Chocolate,0.3,2025-06-22,Yes,25.5,Partial refund accepted.
+SYN-1890,5,IL,carrier a ,Chocolate,0.5,2025-08-21,Yes,,
+SYN-1891,3,CO,CARR C,Chocolate,0.3,2025-07-13,Yes,10.3,Photos received.
+SYN-1892,5,IN,CARRIER A,Chocolate,0.2,2025-07-06,Yes,54.71,Partial refund accepted.
+SYN-1893,2,TX,carrier a ,Chocolate,0.2,2025-08-13,No,32.2,
+SYN-1894,2,FL,Carrier A,Chocolate,0.2,2025-09-11,Yes,7.24,Photos received.
+SYN-1895,9,CA,CARRIER B,Chocolate,0.2,2025-07-12,Yes,21.39,Partial refund accepted.
+SYN-1896,5,AZ,CARRIER A ,Gummies,0.5,2025-08-01,Yes,2.15,
+SYN-1897,5,AZ,carrier a ,Chocolate,0.5,2025-07-11,Yes,10.84,Waiting for photos.
+SYN-1898,7,CO,carrier a ,Chocolate,0.5,2025-07-31,Yes,43.16,Photos received.
+SYN-1899,3,MI,carrier a ,Chocolate,0.5,2025-08-06,Yes,16.24,Waiting for photos.
+SYN-1860,4,GA,carrier a ,Chocolate,0.3,2025-07-14,Yes,29.15,Photos received.
+SYN-1880,5,NC,Carrier A,Chocolate,1.0,2025-07-02,Yes,46.73,Waiting for photos.
+SYN-1874,3,AZ,CARRIER A ,Chocolate,0.4,2025-08-08,Yes,68.21,
+SYN-1780,3,IL,Carrier A,Chocolate,0.5,2025-08-18,Yes,11.99,Partial refund accepted.
+SYN-1525,5,TX,CARRIER A ,Chocolate,0.3,2025-07-18,No,24.79,Partial refund accepted.

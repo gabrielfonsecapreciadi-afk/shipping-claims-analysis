@@ -1,0 +1,323 @@
+order_id,date,shipping_service,tracking,days,comments
+SYN-5000,2025-08-18,Economy parcel,TRK302918046427,,Customer requested a refund.
+SYN-5001,2025-09-06,ground service,TRK669638562849,5.0,Package should take 3 days but took 6.
+SYN-5002,2025-08-23,Economy parcel,TRK370915041662,,The carrier lost the package.
+SYN-5003,2025-09-01,economy ,TRK576815729459,10.0,Customer says the order was not what they expected.
+SYN-5004,2025-09-18,Ground ,TRK379932176080,,Box arrived open.
+SYN-5005,2025-08-27,ECONOMY,TRK975791786713,,Order not delivered to the customer.
+SYN-5006,2025-08-25,GROUND SERVICE,TRK611046285707,8.0,Package should take 3 days but took 6.
+SYN-5007,2025-08-15,GROUND SERVICE,TRK689448955771,,The box arrived crushed and the items were broken.
+SYN-5008,2025-08-27,Express 2 Day ,TRK562632308187,3.0,Order not delivered to the customer.
+SYN-5009,2025-08-14,EXPRESS 2 DAY AIR,TRK969687186834,6.0,We paid for express shipping and it arrived in 4 days.
+SYN-5010,2025-09-19,GROUND,TRK257374355290,7.0,Package should take 3 days but took 6.
+SYN-5011,2025-08-20,EXPRESS 2 DAY AIR,TRK713325368787,,The carrier lost the package.
+SYN-5012,2025-08-07,Ground ,TRK366836366361,,The package was never delivered.
+SYN-5013,2025-08-13,Economy parcel,TRK136849925981,,"Package returned to sender, no tracking updates."
+SYN-5014,2025-08-28,GROUND SERVICE,TRK693592443339,8.0,The package was never delivered.
+SYN-5015,2025-09-27,EXPRESS 2 DAY AIR,TRK334313832856,5.0,Box arrived open.
+SYN-5016,2025-08-16,Ground ,TRK537692123424,6.0,Shipping took longer than the service we paid for.
+SYN-5017,2025-08-14,Express 2 Day ,TRK731146342987,,Order not delivered to the customer.
+SYN-5018,2025-08-21,economy ,TRK241401099642,6.0,The package was never delivered.
+SYN-5019,2025-10-06,Ground ,TRK653235855884,,Customer says the order was not what they expected.
+SYN-5020,2025-09-19,GROUND SERVICE,TRK759108726672,7.0,Package should take 3 days but took 6.
+SYN-5021,2025-08-08,ground service,TRK291725911038,,The box arrived crushed and the items were broken.
+SYN-5022,2025-09-02,ground service,TRK121456010586,6.0,We paid for express shipping and it arrived in 4 days.
+SYN-5023,2025-09-14,Express 2 Day ,TRK316803345445,4.0,Package should take 3 days but took 6.
+SYN-5024,2025-09-12,express 2-day,TRK124608616993,4.0,Delivery was 2 days later than promised.
+SYN-5025,2025-08-25,ground service,TRK942227497564,5.0,Delivery was 2 days later than promised.
+SYN-5026,2025-09-10,economy ,TRK813759373936,,The carrier lost the package.
+SYN-5027,2025-08-31,express 2-day,TRK121878511490,6.0,We paid for express shipping and it arrived in 4 days.
+SYN-5028,2025-08-11,EXPRESS 2-DAY,TRK862393552569,4.0,Package should take 3 days but took 6.
+SYN-5029,2025-07-31,Express 2 Day ,TRK882290079762,,Box arrived open.
+SYN-5030,2025-08-19,GROUND,TRK452103535606,7.0,The package was never delivered.
+SYN-5031,2025-08-01,EXPRESS 2-DAY,TRK519617208062,6.0,We paid for express shipping and it arrived in 4 days.
+SYN-5032,2025-08-21,ECONOMY,TRK256833925943,6.0,Shipping took longer than the service we paid for.
+SYN-5033,2025-09-18,EXPRESS 2-DAY,TRK823500084558,4.0,Shipping took longer than the service we paid for.
+SYN-5034,2025-09-19,ground service,TRK369239304593,8.0,We paid for express shipping and it arrived in 4 days.
+SYN-5035,2025-07-29,EXPRESS 2 DAY AIR,TRK582975526327,,Products arrived melted and deformed.
+SYN-5036,2025-08-02,GROUND SERVICE,TRK573916998399,8.0,Shipping took longer than the service we paid for.
+SYN-5037,2025-09-05,EXPRESS 2-DAY,TRK260197173942,4.0,Shipping took longer than the service we paid for.
+SYN-5038,2025-08-26,GROUND SERVICE,TRK413367411729,,Box arrived open.
+SYN-5039,2025-08-08,Economy parcel,TRK397731691947,7.0,Package should take 3 days but took 6.
+SYN-5040,2025-09-16,EXPRESS 2-DAY,TRK194463877167,4.0,Package should take 3 days but took 6.
+SYN-5041,2025-08-12,ECONOMY,TRK365285618133,,The carrier lost the package.
+SYN-5042,2025-08-03,EXPRESS 2-DAY,TRK472176471567,3.0,Box arrived open.
+SYN-5043,2025-09-11,Ground ,TRK612131065720,6.0,We paid for express shipping and it arrived in 4 days.
+SYN-5044,2025-09-01,GROUND SERVICE,TRK533738903336,,The carrier lost the package.
+SYN-5045,2025-08-21,Express 2 Day ,TRK339100762066,,The carrier lost the package.
+SYN-5046,2025-09-07,GROUND,TRK763793665591,5.0,Delivery was 2 days later than promised.
+SYN-5047,2025-09-27,EXPRESS 2 DAY AIR,TRK146340329161,3.0,Delivery was 2 days later than promised.
+SYN-5048,2025-07-29,Ground ,TRK508403110911,,The carrier lost the package.
+SYN-5049,2025-09-03,GROUND SERVICE,TRK414892641816,8.0,Delivery was 2 days later than promised.
+SYN-5050,2025-08-12,Economy parcel,TRK412353907249,8.0,Tracking stuck in transit since last week.
+SYN-5051,2025-08-25,EXPRESS 2-DAY,TRK269363096801,,Tracking stuck in transit since last week.
+SYN-5052,2025-08-22,economy ,TRK657596294798,,The box arrived crushed and the items were broken.
+SYN-5053,2025-08-20,Express 2 Day ,TRK185761122967,4.0,Package should take 3 days but took 6.
+SYN-5054,2025-08-10,ground service,TRK609829141941,,"Package damaged, merchandise discarded."
+SYN-5055,2025-09-15,EXPRESS 2-DAY,TRK220696836857,,Order not delivered to the customer.
+SYN-5056,2025-08-20,Express 2 Day ,TRK431958333378,6.0,Shipping took longer than the service we paid for.
+SYN-5057,2025-09-24,express 2-day,TRK865367693248,,Products arrived melted and deformed.
+SYN-5058,2025-08-19,Ground ,TRK616565586852,5.0,Delivery was 2 days later than promised.
+SYN-5059,2025-09-19,express 2-day,TRK301339434760,,"Package damaged, merchandise discarded."
+SYN-5060,2025-08-29,Ground ,TRK195347391849,,The package was never delivered.
+SYN-5061,2025-08-20,Economy parcel,TRK282620209160,11.0,We paid for express shipping and it arrived in 4 days.
+SYN-5062,2025-09-08,EXPRESS 2-DAY,TRK772908638916,,Box arrived open.
+SYN-5063,2025-09-14,EXPRESS 2-DAY,TRK979914742956,6.0,Box arrived open.
+SYN-5064,2025-08-25,express 2-day,TRK985808855837,3.0,Package should take 3 days but took 6.
+SYN-5065,2025-08-22,Express 2 Day ,TRK239345290193,3.0,Shipping took longer than the service we paid for.
+SYN-5066,2025-08-30,GROUND SERVICE,TRK934583972058,,Tracking stuck in transit since last week.
+SYN-5067,2025-08-31,ground service,TRK743620353362,5.0,Package should take 3 days but took 6.
+SYN-5068,2025-08-22,Express 2 Day ,TRK701588689713,4.0,Tracking stuck in transit since last week.
+SYN-5069,2025-09-12,Express 2 Day ,TRK883943598086,5.0,Shipping took longer than the service we paid for.
+SYN-5070,2025-08-21,GROUND SERVICE,TRK712609218076,5.0,Shipping took longer than the service we paid for.
+SYN-5071,2025-08-24,express 2-day,TRK986604214609,,"Package damaged, merchandise discarded."
+SYN-5072,2025-09-01,GROUND SERVICE,TRK348168667778,,Tracking stuck in transit since last week.
+SYN-5073,2025-10-11,economy ,TRK525047759359,9.0,Package should take 3 days but took 6.
+SYN-5074,2025-08-14,EXPRESS 2-DAY,TRK137885596490,,Chocolate arrived in a liquid state.
+SYN-5075,2025-08-13,GROUND,TRK816323477824,7.0,Package should take 3 days but took 6.
+SYN-5076,2025-08-10,Economy parcel,TRK409033863548,,The carrier lost the package.
+SYN-5077,2025-09-07,GROUND SERVICE,TRK300500874938,5.0,Shipping took longer than the service we paid for.
+SYN-5078,2025-08-23,Economy parcel,TRK972171080393,,The package was never delivered.
+SYN-5079,2025-08-20,Economy parcel,TRK652892726336,7.0,Order not delivered to the customer.
+SYN-5080,2025-08-11,Ground ,TRK107995421463,8.0,Customer says the order was not what they expected.
+SYN-5081,2025-09-24,ground service,TRK807245163262,7.0,Shipping took longer than the service we paid for.
+SYN-5082,2025-08-23,GROUND SERVICE,TRK745099901685,,The carrier lost the package.
+SYN-5083,2025-09-01,Ground ,TRK248030615756,,Customer requested a refund.
+SYN-5084,2025-08-05,Ground ,TRK106049995902,6.0,Customer requested a refund.
+SYN-5085,2025-08-05,EXPRESS 2-DAY,TRK217601994698,4.0,Shipping took longer than the service we paid for.
+SYN-5086,2025-08-02,ECONOMY,TRK660941911052,7.0,"Package returned to sender, no tracking updates."
+SYN-5087,2025-08-19,EXPRESS 2 DAY AIR,TRK339213475781,6.0,Products arrived melted and deformed.
+SYN-5088,2025-08-25,express 2-day,TRK958550432820,3.0,We paid for express shipping and it arrived in 4 days.
+SYN-5089,2025-08-13,EXPRESS 2-DAY,TRK649031579318,6.0,We paid for express shipping and it arrived in 4 days.
+SYN-5090,2025-08-18,express 2-day,TRK803855890428,,Box arrived open.
+SYN-5091,2025-07-23,Ground ,TRK740042815389,7.0,Delivery was 2 days later than promised.
+SYN-5092,2025-08-18,express 2-day,TRK276254228466,,Products arrived melted and deformed.
+SYN-5093,2025-08-06,Ground ,TRK397814466793,8.0,We paid for express shipping and it arrived in 4 days.
+SYN-5094,2025-08-07,GROUND,TRK749991072740,5.0,The package was never delivered.
+SYN-5095,2025-07-23,express 2-day,TRK391099965374,6.0,Shipping took longer than the service we paid for.
+SYN-5096,2025-09-07,express 2-day,TRK199621430860,4.0,Delivery was 2 days later than promised.
+SYN-5097,2025-09-29,GROUND,TRK412256911769,6.0,The carrier lost the package.
+SYN-5098,2025-09-02,GROUND,TRK375022996388,,The carrier lost the package.
+SYN-5099,2025-08-04,EXPRESS 2-DAY,TRK155420148915,3.0,Package should take 3 days but took 6.
+SYN-5100,2025-10-12,EXPRESS 2-DAY,TRK281231809214,6.0,Package should take 3 days but took 6.
+SYN-5101,2025-10-07,express 2-day,TRK683780583499,,Customer requested a refund.
+SYN-5102,2025-08-24,EXPRESS 2-DAY,TRK179795087275,3.0,Delivery was 2 days later than promised.
+SYN-5103,2025-08-05,express 2-day,TRK772902808361,3.0,We paid for express shipping and it arrived in 4 days.
+SYN-5104,2025-09-09,economy ,TRK703534975486,,Customer says the order was not what they expected.
+SYN-5105,2025-10-04,EXPRESS 2-DAY,TRK479210481345,,Box arrived open.
+SYN-5106,2025-09-13,Express 2 Day ,TRK827113308683,,Chocolate arrived in a liquid state.
+SYN-5107,2025-09-02,Economy parcel,TRK670779572293,,Tracking stuck in transit since last week.
+SYN-5108,2025-09-01,GROUND SERVICE,TRK597866225537,7.0,Delivery was 2 days later than promised.
+SYN-5109,2025-10-08,ground service,TRK251682500912,,Box arrived open.
+SYN-5110,2025-08-02,ground service,TRK901520031946,7.0,Package should take 3 days but took 6.
+SYN-5111,2025-08-08,ECONOMY,TRK945471981719,,Order not delivered to the customer.
+SYN-5112,2025-09-18,express 2-day,TRK567612440346,4.0,Shipping took longer than the service we paid for.
+SYN-5113,2025-08-08,express 2-day,TRK659614735896,4.0,We paid for express shipping and it arrived in 4 days.
+SYN-5114,2025-08-20,Economy parcel,TRK416384805675,,Tracking stuck in transit since last week.
+SYN-5115,2025-08-15,economy ,TRK570558868449,,"Package returned to sender, no tracking updates."
+SYN-5116,2025-08-13,economy ,TRK858514859903,,Order not delivered to the customer.
+SYN-5117,2025-07-28,Express 2 Day ,TRK749245705120,3.0,Package should take 3 days but took 6.
+SYN-5118,2025-08-30,Economy parcel,TRK604864824024,,"Package returned to sender, no tracking updates."
+SYN-5119,2025-08-21,express 2-day,TRK495946245532,3.0,Delivery was 2 days later than promised.
+SYN-5120,2025-08-29,GROUND SERVICE,TRK323958732993,,The carrier lost the package.
+SYN-5121,2025-08-16,Economy parcel,TRK255417054279,,Order not delivered to the customer.
+SYN-5122,2025-10-01,Express 2 Day ,TRK600591760227,5.0,We paid for express shipping and it arrived in 4 days.
+SYN-5123,2025-08-31,EXPRESS 2-DAY,TRK377416155095,4.0,We paid for express shipping and it arrived in 4 days.
+SYN-5124,2025-10-04,GROUND SERVICE,TRK702526819153,7.0,Customer says the order was not what they expected.
+SYN-5125,2025-08-18,economy ,TRK854467371279,,The carrier lost the package.
+SYN-5126,2025-07-22,EXPRESS 2 DAY AIR,TRK919077388996,3.0,Delivery was 2 days later than promised.
+SYN-5127,2025-09-14,ECONOMY,TRK692803080636,10.0,The box arrived crushed and the items were broken.
+SYN-5128,2025-09-18,EXPRESS 2-DAY,TRK138147609572,3.0,Package should take 3 days but took 6.
+SYN-5129,2025-08-01,Ground ,TRK810020967619,,Customer says the order was not what they expected.
+SYN-5130,2025-09-02,EXPRESS 2-DAY,TRK201887665242,6.0,Delivery was 2 days later than promised.
+SYN-5131,2025-09-05,Economy parcel,TRK771369341238,6.0,Shipping took longer than the service we paid for.
+SYN-5132,2025-08-08,Express 2 Day ,TRK542793145321,3.0,Products arrived melted and deformed.
+SYN-5133,2025-08-29,Ground ,TRK267037074168,6.0,We paid for express shipping and it arrived in 4 days.
+SYN-5134,2025-08-13,express 2-day,TRK557256348794,,Customer requested a refund.
+SYN-5135,2025-07-26,economy ,TRK501751598652,,Tracking stuck in transit since last week.
+SYN-5136,2025-09-21,Economy parcel,TRK221865838165,10.0,Tracking stuck in transit since last week.
+SYN-5137,2025-08-26,Express 2 Day ,TRK905008061816,,Box arrived open.
+SYN-5138,2025-09-14,EXPRESS 2-DAY,TRK254745525104,,Customer requested a refund.
+SYN-5139,2025-09-09,Express 2 Day ,TRK725105314929,3.0,Package should take 3 days but took 6.
+SYN-5140,2025-10-13,ground service,TRK612950761828,7.0,Delivery was 2 days later than promised.
+SYN-5141,2025-08-23,Economy parcel,TRK238369123477,,Customer says the order was not what they expected.
+SYN-5142,2025-08-22,Ground ,TRK531115177917,,Customer says the order was not what they expected.
+SYN-5143,2025-08-15,Ground ,TRK410111460723,,Order not delivered to the customer.
+SYN-5144,2025-09-02,Ground ,TRK720928549898,7.0,Delivery was 2 days later than promised.
+SYN-5145,2025-08-25,GROUND,TRK470526654808,8.0,Package should take 3 days but took 6.
+SYN-5146,2025-09-09,Express 2 Day ,TRK707129119556,6.0,Shipping took longer than the service we paid for.
+SYN-5147,2025-08-19,Express 2 Day ,TRK159621826694,3.0,Chocolate arrived in a liquid state.
+SYN-5148,2025-08-07,EXPRESS 2 DAY AIR,TRK779923904303,5.0,Shipping took longer than the service we paid for.
+SYN-5149,2025-09-21,GROUND SERVICE,TRK562536768152,7.0,Delivery was 2 days later than promised.
+SYN-5150,2025-09-18,express 2-day,TRK629096963415,5.0,Delivery was 2 days later than promised.
+SYN-5151,2025-08-18,GROUND SERVICE,TRK786358851661,5.0,Shipping took longer than the service we paid for.
+SYN-5152,2025-09-07,Express 2 Day ,TRK723362541742,4.0,Package should take 3 days but took 6.
+SYN-5153,2025-08-26,GROUND SERVICE,TRK735705102655,,Chocolate arrived in a liquid state.
+SYN-5154,2025-09-12,EXPRESS 2-DAY,TRK827208203708,,"Package returned to sender, no tracking updates."
+SYN-5155,2025-08-20,GROUND,TRK914744932691,,Customer requested a refund.
+SYN-5156,2025-08-28,EXPRESS 2 DAY AIR,TRK976595832628,,Box arrived open.
+SYN-5157,2025-08-01,Express 2 Day ,TRK241272350922,5.0,Package should take 3 days but took 6.
+SYN-5158,2025-08-10,Express 2 Day ,TRK856558133534,5.0,Box arrived open.
+SYN-5159,2025-09-14,GROUND,TRK820707145010,6.0,We paid for express shipping and it arrived in 4 days.
+SYN-5160,2025-08-20,Economy parcel,TRK253000480820,7.0,"Package damaged, merchandise discarded."
+SYN-5161,2025-07-29,EXPRESS 2 DAY AIR,TRK917952331663,6.0,Package should take 3 days but took 6.
+SYN-5162,2025-08-09,GROUND SERVICE,TRK731435843087,6.0,Shipping took longer than the service we paid for.
+SYN-5163,2025-08-21,GROUND,TRK854437275494,6.0,Package should take 3 days but took 6.
+SYN-5164,2025-09-09,Ground ,TRK602028152095,,The package was never delivered.
+SYN-5165,2025-08-19,GROUND,TRK347360694070,6.0,Package should take 3 days but took 6.
+SYN-5166,2025-09-11,Express 2 Day ,TRK740000280567,4.0,Delivery was 2 days later than promised.
+SYN-5167,2025-09-21,GROUND,TRK849413679483,5.0,Shipping took longer than the service we paid for.
+SYN-5168,2025-08-18,economy ,TRK670432624023,,Customer requested a refund.
+SYN-5169,2025-09-15,economy ,TRK959801088031,,"Package returned to sender, no tracking updates."
+SYN-5170,2025-08-06,express 2-day,TRK430357171882,6.0,Shipping took longer than the service we paid for.
+SYN-5171,2025-08-22,GROUND,TRK740381615724,,Products arrived melted and deformed.
+SYN-5172,2025-08-04,Express 2 Day ,TRK569466417597,4.0,Package should take 3 days but took 6.
+SYN-5173,2025-07-31,GROUND,TRK721445898622,5.0,Shipping took longer than the service we paid for.
+SYN-5174,2025-08-01,express 2-day,TRK717833968544,6.0,Delivery was 2 days later than promised.
+SYN-5175,2025-08-05,Express 2 Day ,TRK596718477131,6.0,Shipping took longer than the service we paid for.
+SYN-5176,2025-09-18,ground service,TRK833393073264,,"Package damaged, merchandise discarded."
+SYN-5177,2025-08-29,economy ,TRK487157159114,,Tracking stuck in transit since last week.
+SYN-5178,2025-10-02,Express 2 Day ,TRK955783377548,,Tracking stuck in transit since last week.
+SYN-5179,2025-08-28,GROUND,TRK565824559608,,Customer requested a refund.
+SYN-5180,2025-09-03,GROUND,TRK237733195290,5.0,Package should take 3 days but took 6.
+SYN-5181,2025-08-10,ECONOMY,TRK493244317175,,The box arrived crushed and the items were broken.
+SYN-5182,2024-08-15,ground service,TRK681141352493,,Box arrived open.
+SYN-5183,2025-08-20,express 2-day,TRK546766407549,,Products arrived melted and deformed.
+SYN-5184,2025-09-29,EXPRESS 2 DAY AIR,TRK419691881136,5.0,Shipping took longer than the service we paid for.
+SYN-5185,2025-09-30,Ground ,TRK197154058849,7.0,Delivery was 2 days later than promised.
+SYN-5186,2025-08-11,Express 2 Day ,TRK107160234026,4.0,Shipping took longer than the service we paid for.
+SYN-5187,2025-09-02,ECONOMY,TRK545160170151,,The package was never delivered.
+SYN-5188,2025-09-03,Economy parcel,TRK127936650370,12.0,Delivery was 2 days later than promised.
+SYN-5189,2025-08-30,Economy parcel,TRK183202922639,12.0,Chocolate arrived in a liquid state.
+SYN-5190,2025-08-06,EXPRESS 2 DAY AIR,TRK876714303310,4.0,We paid for express shipping and it arrived in 4 days.
+SYN-5191,2025-09-04,GROUND,TRK972011205266,5.0,Chocolate arrived in a liquid state.
+SYN-5192,2025-09-15,GROUND,TRK462900468474,6.0,We paid for express shipping and it arrived in 4 days.
+SYN-5193,2025-08-18,Express 2 Day ,TRK528498488829,3.0,The box arrived crushed and the items were broken.
+SYN-5194,2025-08-27,express 2-day,TRK676804070288,4.0,Shipping took longer than the service we paid for.
+SYN-5195,2025-08-06,Express 2 Day ,TRK361208627155,6.0,Package should take 3 days but took 6.
+SYN-5196,2025-09-29,EXPRESS 2-DAY,TRK612874451207,,"Package damaged, merchandise discarded."
+SYN-5197,2025-08-05,Economy parcel,TRK977026660280,9.0,We paid for express shipping and it arrived in 4 days.
+SYN-5198,2025-08-12,ECONOMY,TRK259185928088,,"Package damaged, merchandise discarded."
+SYN-5199,2025-08-16,express 2-day,TRK853689520892,,Products arrived melted and deformed.
+SYN-5200,2025-09-17,Ground ,TRK822843392438,,Box arrived open.
+SYN-5201,2025-09-07,EXPRESS 2 DAY AIR,TRK463583542206,4.0,We paid for express shipping and it arrived in 4 days.
+SYN-5202,2025-07-24,express 2-day,TRK765451301210,,"Package damaged, merchandise discarded."
+SYN-5203,2025-08-10,express 2-day,TRK862935182704,,Box arrived open.
+SYN-5204,2025-09-11,Ground ,TRK597331718498,5.0,Delivery was 2 days later than promised.
+SYN-5205,2025-08-21,GROUND,TRK338615443265,8.0,Package should take 3 days but took 6.
+SYN-5206,2025-07-28,ECONOMY,TRK540890280313,12.0,Package should take 3 days but took 6.
+SYN-5207,2025-10-05,Economy parcel,TRK172824384228,,Products arrived melted and deformed.
+SYN-5208,2025-08-08,Express 2 Day ,TRK386978704931,,Products arrived melted and deformed.
+SYN-5209,2025-08-27,GROUND SERVICE,TRK493421221566,,Tracking stuck in transit since last week.
+SYN-5210,2025-08-14,Express 2 Day ,TRK905187074330,5.0,Chocolate arrived in a liquid state.
+SYN-5211,2025-09-10,express 2-day,TRK382484355990,,Customer requested a refund.
+SYN-5212,2025-09-13,ground service,TRK924138496039,,Box arrived open.
+SYN-5213,2025-08-21,EXPRESS 2-DAY,TRK202451479475,,"Package damaged, merchandise discarded."
+SYN-5214,2025-09-05,EXPRESS 2-DAY,TRK300741086611,,Products arrived melted and deformed.
+SYN-5215,2025-09-26,EXPRESS 2 DAY AIR,TRK341162226240,,Products arrived melted and deformed.
+SYN-5216,2025-09-16,EXPRESS 2 DAY AIR,TRK695832811622,4.0,Package should take 3 days but took 6.
+SYN-5217,2025-08-22,economy ,TRK386038565258,,Order not delivered to the customer.
+SYN-5218,2025-08-23,EXPRESS 2 DAY AIR,TRK975754553114,,Customer says the order was not what they expected.
+SYN-5219,2025-09-24,GROUND,TRK928866097340,8.0,Shipping took longer than the service we paid for.
+SYN-5220,2025-07-29,Economy parcel,TRK277394425905,,Order not delivered to the customer.
+SYN-5221,2025-07-27,ground service,TRK671529605386,8.0,Package should take 3 days but took 6.
+SYN-5222,2025-08-11,GROUND SERVICE,TRK395954366174,7.0,Order not delivered to the customer.
+SYN-5223,2025-09-18,Economy parcel,TRK103870185431,6.0,We paid for express shipping and it arrived in 4 days.
+SYN-5224,2025-08-08,express 2-day,TRK917207023883,4.0,Products arrived melted and deformed.
+SYN-5225,2025-08-15,Express 2 Day ,TRK857695020327,6.0,Customer says the order was not what they expected.
+SYN-5226,2025-09-03,ground service,TRK723097987464,6.0,We paid for express shipping and it arrived in 4 days.
+SYN-5227,2025-08-10,GROUND SERVICE,TRK667931746575,8.0,We paid for express shipping and it arrived in 4 days.
+SYN-5228,2025-08-16,Economy parcel,TRK894182495470,,Customer requested a refund.
+SYN-5229,2025-08-24,EXPRESS 2 DAY AIR,TRK256728441999,6.0,Delivery was 2 days later than promised.
+SYN-5230,2025-08-13,Ground ,TRK262124190868,6.0,Delivery was 2 days later than promised.
+SYN-5231,2025-10-13,GROUND SERVICE,TRK601178306821,8.0,We paid for express shipping and it arrived in 4 days.
+SYN-5232,2025-08-09,ECONOMY,TRK895082853286,,Order not delivered to the customer.
+SYN-5233,2025-09-20,EXPRESS 2 DAY AIR,TRK483183494880,4.0,We paid for express shipping and it arrived in 4 days.
+SYN-5234,2025-08-24,EXPRESS 2 DAY AIR,TRK185254524159,,The package was never delivered.
+SYN-5235,2025-08-07,Economy parcel,TRK663468055613,,Box arrived open.
+SYN-5236,2025-08-06,Ground ,TRK340301847741,,Customer requested a refund.
+SYN-5237,2025-08-26,express 2-day,TRK260465475830,6.0,We paid for express shipping and it arrived in 4 days.
+SYN-5238,2025-08-19,EXPRESS 2 DAY AIR,TRK175497222901,,"Package damaged, merchandise discarded."
+SYN-5239,2025-08-13,Economy parcel,TRK576889804113,12.0,We paid for express shipping and it arrived in 4 days.
+SYN-5240,2025-10-04,Ground ,TRK513688672397,8.0,Shipping took longer than the service we paid for.
+SYN-5241,2025-08-24,GROUND,TRK969551881100,6.0,Package should take 3 days but took 6.
+SYN-5242,2025-09-29,ECONOMY,TRK169631478929,,"Package returned to sender, no tracking updates."
+SYN-5243,2025-08-09,express 2-day,TRK407774703785,3.0,Tracking stuck in transit since last week.
+SYN-5244,2025-08-10,Express 2 Day ,TRK489284090891,3.0,We paid for express shipping and it arrived in 4 days.
+SYN-5245,2025-09-01,ground service,TRK897634601309,8.0,We paid for express shipping and it arrived in 4 days.
+SYN-5246,2025-08-15,ECONOMY,TRK775796992025,,Customer requested a refund.
+SYN-5247,2025-08-10,EXPRESS 2 DAY AIR,TRK798595416300,6.0,Delivery was 2 days later than promised.
+SYN-5248,2025-08-04,ground service,TRK235171715552,6.0,Customer requested a refund.
+SYN-5249,2025-08-02,Express 2 Day ,TRK798759433779,,Customer requested a refund.
+SYN-5250,2025-09-11,EXPRESS 2 DAY AIR,TRK915023646779,,"Package damaged, merchandise discarded."
+SYN-5251,2024-08-15,economy ,TRK210246875200,11.0,We paid for express shipping and it arrived in 4 days.
+SYN-5252,2025-10-08,EXPRESS 2-DAY,TRK914771730668,3.0,Delivery was 2 days later than promised.
+SYN-5253,2025-08-10,Express 2 Day ,TRK736812243978,6.0,Delivery was 2 days later than promised.
+SYN-5254,2025-08-19,ECONOMY,TRK581390690638,,The carrier lost the package.
+SYN-5255,2025-08-20,express 2-day,TRK479320782238,4.0,Delivery was 2 days later than promised.
+SYN-5256,2025-08-26,express 2-day,TRK297498833823,5.0,Delivery was 2 days later than promised.
+SYN-5257,2025-09-22,ECONOMY,TRK352174556233,10.0,The package was never delivered.
+SYN-5258,2025-09-18,EXPRESS 2-DAY,TRK893650007765,,Customer says the order was not what they expected.
+SYN-5259,2025-07-25,Ground ,TRK727393898463,7.0,We paid for express shipping and it arrived in 4 days.
+SYN-5260,2025-08-21,EXPRESS 2 DAY AIR,TRK639480414916,4.0,The package was never delivered.
+SYN-5261,2025-09-18,express 2-day,TRK287743793763,,The box arrived crushed and the items were broken.
+SYN-5262,2025-07-20,ground service,TRK947851929120,,Box arrived open.
+SYN-5263,2025-08-28,EXPRESS 2-DAY,TRK212392234809,6.0,Package should take 3 days but took 6.
+SYN-5264,2025-08-14,economy ,TRK824671422327,8.0,Delivery was 2 days later than promised.
+SYN-5265,2025-08-22,ECONOMY,TRK728436063969,11.0,Customer says the order was not what they expected.
+SYN-5266,2025-08-22,economy ,TRK212962678355,7.0,Delivery was 2 days later than promised.
+SYN-5267,2025-08-20,EXPRESS 2 DAY AIR,TRK733400265802,,Order not delivered to the customer.
+SYN-5268,2025-09-24,EXPRESS 2-DAY,TRK814541716597,,Chocolate arrived in a liquid state.
+SYN-5269,2025-08-28,economy ,TRK295247311002,8.0,Box arrived open.
+SYN-5270,2025-09-26,Ground ,TRK429553511619,,Tracking stuck in transit since last week.
+SYN-5271,2025-09-09,Ground ,TRK790634238240,8.0,Shipping took longer than the service we paid for.
+SYN-5272,2025-08-18,ECONOMY,TRK370868631675,10.0,Package should take 3 days but took 6.
+SYN-5273,2025-08-26,express 2-day,TRK128954641285,6.0,We paid for express shipping and it arrived in 4 days.
+SYN-5274,2025-08-20,Express 2 Day ,TRK855094721313,3.0,Package should take 3 days but took 6.
+SYN-5275,2025-09-18,ground service,TRK867542983426,8.0,Delivery was 2 days later than promised.
+SYN-5276,2025-08-10,Ground ,TRK251640960542,,"Package returned to sender, no tracking updates."
+SYN-5277,2025-09-30,EXPRESS 2 DAY AIR,TRK789131161613,,Products arrived melted and deformed.
+SYN-5278,2025-08-31,GROUND SERVICE,TRK350673206123,8.0,Shipping took longer than the service we paid for.
+SYN-5279,2025-09-02,ECONOMY,TRK192771677373,9.0,Customer says the order was not what they expected.
+SYN-5280,2025-08-27,EXPRESS 2 DAY AIR,TRK659234269744,,Customer says the order was not what they expected.
+SYN-5281,2025-08-29,EXPRESS 2-DAY,TRK664991505135,5.0,Package should take 3 days but took 6.
+SYN-5282,2025-09-05,GROUND SERVICE,TRK681249591341,,Customer says the order was not what they expected.
+SYN-5283,2025-09-04,ECONOMY,TRK138167441669,10.0,Delivery was 2 days later than promised.
+SYN-5284,2025-08-12,economy ,TRK371282936508,,Order not delivered to the customer.
+SYN-5285,2025-08-31,EXPRESS 2 DAY AIR,TRK664982202876,5.0,Delivery was 2 days later than promised.
+SYN-5286,2025-08-19,ECONOMY,TRK186588445479,7.0,Customer requested a refund.
+SYN-5287,2025-09-03,economy ,TRK652066995904,12.0,Shipping took longer than the service we paid for.
+SYN-5288,2025-08-29,Ground ,TRK800753711778,,Customer says the order was not what they expected.
+SYN-5289,2025-08-10,EXPRESS 2 DAY AIR,TRK892017864398,,Customer requested a refund.
+SYN-5290,2025-09-10,express 2-day,TRK178256786791,3.0,We paid for express shipping and it arrived in 4 days.
+SYN-5291,2025-08-24,Ground ,TRK831471770235,5.0,The carrier lost the package.
+SYN-5292,2025-08-29,Express 2 Day ,TRK231571341444,5.0,Package should take 3 days but took 6.
+SYN-5293,2025-09-05,EXPRESS 2 DAY AIR,TRK998334251536,5.0,We paid for express shipping and it arrived in 4 days.
+SYN-5294,2025-09-04,ECONOMY,TRK229981757885,9.0,Delivery was 2 days later than promised.
+SYN-5295,2025-09-11,EXPRESS 2 DAY AIR,TRK390675155196,6.0,Package should take 3 days but took 6.
+SYN-5296,2025-08-11,ECONOMY,TRK301389921811,,Order not delivered to the customer.
+SYN-5297,2025-08-05,GROUND SERVICE,TRK390960585137,8.0,"Package returned to sender, no tracking updates."
+SYN-5298,2025-09-05,Economy parcel,TRK376398119102,,"Package returned to sender, no tracking updates."
+SYN-5299,2025-08-13,Express 2 Day ,TRK933965037415,4.0,The box arrived crushed and the items were broken.
+SYN-5300,2025-08-06,GROUND SERVICE,TRK222853817821,,Products arrived melted and deformed.
+SYN-5301,2025-08-07,ground service,TRK749344666775,7.0,"Package returned to sender, no tracking updates."
+SYN-5302,2025-08-17,ECONOMY,TRK899099736118,,Customer says the order was not what they expected.
+SYN-5303,2025-10-13,express 2-day,TRK978492257060,4.0,"Package damaged, merchandise discarded."
+SYN-5304,2025-08-08,EXPRESS 2 DAY AIR,TRK835681869786,3.0,Shipping took longer than the service we paid for.
+SYN-5305,2025-08-16,Economy parcel,TRK466065747196,,"Package returned to sender, no tracking updates."
+SYN-5306,2025-09-28,EXPRESS 2 DAY AIR,TRK983654952504,,The carrier lost the package.
+SYN-5307,2025-10-05,GROUND,TRK785435508350,,Products arrived melted and deformed.
+SYN-5308,2025-08-13,Express 2 Day ,TRK291151737741,3.0,Package should take 3 days but took 6.
+SYN-5309,2025-09-23,EXPRESS 2-DAY,TRK246285760407,,Chocolate arrived in a liquid state.
+SYN-5310,2025-08-07,GROUND,TRK892851311967,7.0,Shipping took longer than the service we paid for.
+SYN-5311,2025-09-12,ground service,TRK749159804426,7.0,We paid for express shipping and it arrived in 4 days.
+SYN-5312,2025-07-25,Ground ,TRK686101245994,6.0,Customer says the order was not what they expected.
+SYN-5313,2025-08-21,Ground ,TRK650479946183,5.0,Package should take 3 days but took 6.
+SYN-5314,2025-08-14,GROUND,TRK399010735866,,Order not delivered to the customer.
+SYN-5315,2025-09-08,Economy parcel,TRK525768298126,,"Package returned to sender, no tracking updates."
+SYN-5316,2025-07-26,express 2-day,TRK149668561535,6.0,Shipping took longer than the service we paid for.
+SYN-5317,2025-08-24,Express 2 Day ,TRK275665649860,3.0,The box arrived crushed and the items were broken.
+SYN-5318,2025-09-07,Express 2 Day ,TRK619058843441,5.0,We paid for express shipping and it arrived in 4 days.
+SYN-5319,2025-07-30,Economy parcel,TRK877815148752,12.0,Shipping took longer than the service we paid for.
+SYN-5154,2025-09-12,EXPRESS 2-DAY,TRK827208203708,,"Package returned to sender, no tracking updates."
+SYN-5314,2025-08-14,GROUND,TRK399010735866,,Order not delivered to the customer.
